@@ -10,18 +10,18 @@ The research topic was part of the my dissertation.
 
 Dissertation download: [diss_decker_final1.pdf](http://www.teco.edu/~cdecker/projects/fccs/diss_decker_final1.pdf)
 
-## Synopsis
+### Synopsis
 
 In unknown environments, data processing on miniaturized sensor and computer systems may lead to runtime-variant process behavior affecting the overall system performance. Feedback controllers allow to monitor the computer system online and adjust runtime parameters for achieving a pre-defined behavior. The objectives are to ensure fairness among processes, avoid system overload, coordinate realtime and non-realtime processes, form collaborative communication groups among nodes and and enable the best possible achievement for a demanded battery lifetime.
 
-## Theory of cooperative and collaborative process organisation
+### Theory of cooperative and collaborative process organisation
 
 In data processing we observe two types of behaviors during execution: (1) processes affecting each other and (2) jointly interacting processes. We define the process behavior as follows:
 
 * Cooperation: Goal oriented co-action of independent processes.
 * Collaboration: Goal oriented interaction between dependent processes.
 
-## Model
+### Model
 
 We model a process as an impact on a resource. Typical resources are for instance energy or message buffers. The resource is also called a budget. From this perspective, the previous definition of cooperation and collaboration is understood in the following way:
 
@@ -36,7 +36,7 @@ This relationship is expressed in the budget/cost control loop, which is shown i
 
 The budget/cost control loop implements the separation of concerns principle. The unknown process behavior, e.g. execution time or energy consumption of a stateful sensor sampling process, can be thought of as the disturbance effect in this picture. The model separates between an ideal process execution behavior overlayed by an unknown disturbance.
 
-## Insight
+### Insight
 
 The control approach has two behaviors, which can be derrived analytically from control theory: reference control, disturbance control.
 
@@ -53,7 +53,7 @@ Both behaviors are shown in the pictures below.
 As a result, a novel theory of cooperative and collaborative process organisation is established. 
 It is not neccessary to concretly know the implementation of the process, i.e. what the process does. It is required that a process is part of a specific process class indicating it's timely behavior. So far, the theory was applied to periodic, aperiodic, realtime and distributed process classes.
 
-## Results
+### Results
 
 For different types of processes commonly used on embedded ubiquitous computing systems, 
 it was shown that cooperation and collaboration significantly improve the system's performance and 
@@ -77,7 +77,7 @@ Realtime |	BFS |	collaborative |	coordination of realtime with non-realtime proc
 Distributed |	FCUP-MAC |	collaborative, cooperative |	32% less latency, up to 10x more successfully exchanged messages, equalizing energy capacity levels
 Energy management |	PControl |	cooperative |	a given operation duration (battery lifetime) is achieved best
 
-## Relation to Ubicomp
+### Relation to Ubicomp
 
 In Ubiquitous Computing (Ubicomp), the complexity of working with a multitude of devices surrounding the user changes by embedding them into the environment (see figure below). The user cannot distinguish between single devices and is only aware of available services. The complexity becomes a complexity of data processing (= software) on and between devices. We propose to organize this processing along the control mechanisms of cooperation and collaboration.
 
@@ -97,7 +97,7 @@ A derived setpoint could be an execution priority, message buffer throughput or 
 
 The prompt data processing principle turned out to be extremely fruitful. It avoids overload and balances the resource usage between non-preemptive processes (cooperation). It speeds-up coordination among distributed and realtime/non-realtime processes (collaboration). Data processing could be dynamically prioritized, e.g. when starvation impends. On the other hand, it provides flexibility to the developer in prioritizing certain processes, e.g. data sampling for a specific sensor.
 
-## Limitations and Extensions
+### Limitations and Extensions
 
 The feedback control approach is currently limited to a SISO system considering only the effect on one control variable on one budget. A useful extension would be to go for MIMO systems, where multiple control variables and effects can be considered.
 
@@ -107,15 +107,11 @@ Finally, established tool chains for system analysis and control synthesis, e.g.
 
 ### Further Readings
 
-Decker, C.
-Prozesse
-Link
-
-Decker, C.
-*Prozessorganisation in eingebetteten, ubiquitären Rechnersystemen*
-PhD thesis (German), University of Karlsruhe, 2009.[[pdf]](http://www.teco.edu/~cdecker/projects/fccs/disputation_cdecker_final.pdf)
-Abstract(German): [[pdf]](http://www.teco.edu/~cdecker/projects/fccs/diss_abstract.pdf)
-Presentation(German): [[pdf]](http://www.teco.edu/~cdecker/projects/fccs/disputation_cdecker_final.pdf)
+Decker, C.  
+*Prozessorganisation in eingebetteten, ubiquitären Rechnersystemen*   
+PhD thesis (German), University of Karlsruhe, 2009.[[pdf]](http://www.teco.edu/~cdecker/projects/fccs/disputation_cdecker_final.pdf)   
+Abstract(German): [[pdf]](http://www.teco.edu/~cdecker/projects/fccs/diss_abstract.pdf)   
+Presentation(German): [[pdf]](http://www.teco.edu/~cdecker/projects/fccs/disputation_cdecker_final.pdf)   
 
 Decker, C., Beigl, M., Riedel, T., Krohn, A., Zimmer, T.
 *Buffer Feedback Scheduling: Runtime Adaptation of Ubicomp Applications*
