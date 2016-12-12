@@ -66,7 +66,7 @@ a more efficient resource usage than comparable approaches. Further, cooperative
 allows to a achieve best an given operation duration of a battery driven ubiquitous computing system.
 
 Other improvements were demonstrated in ubiquitous computing appliances, such as [RemCam](http://www.teco.edu/~cdecker/pub/decker_ucs2006.pdf) 
-and [CoBIs](http://www.teco.edu/~cdecker/cobis/), and other experimental setups and simulation studies. 
+and [CoBIs](research/cobis/cobis.md), and other experimental setups and simulation studies. 
 A consistent view on theory, simulation and experiements was shown.
 
 Process |	Control action |	Organisation |	Achievments
