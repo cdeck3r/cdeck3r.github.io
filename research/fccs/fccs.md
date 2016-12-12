@@ -113,14 +113,14 @@ PhD thesis (German), University of Karlsruhe, 2009.[[pdf]](http://www.teco.edu/~
 Abstract(German): [[pdf]](http://www.teco.edu/~cdecker/projects/fccs/diss_abstract.pdf)   
 Presentation(German): [[pdf]](http://www.teco.edu/~cdecker/projects/fccs/disputation_cdecker_final.pdf)   
 
-Decker, C., Beigl, M., Riedel, T., Krohn, A., Zimmer, T.
-*Buffer Feedback Scheduling: Runtime Adaptation of Ubicomp Applications*
-International Symposium on Ubiquitous Computing Systems (UCS 2006) Oct. 11 - 13, 2006, Seoul, Korea, Lecture Notes in Computer Science (LNCS), Vol. 4239, Springer Verlag, 2006, ISBN 3-540-46287-2 [pdf]
+Decker, C., Beigl, M., Riedel, T., Krohn, A., Zimmer, T.   
+*Buffer Feedback Scheduling: Runtime Adaptation of Ubicomp Applications*   
+International Symposium on Ubiquitous Computing Systems (UCS 2006) Oct. 11 - 13, 2006, Seoul, Korea, Lecture Notes in Computer Science (LNCS), Vol. 4239, Springer Verlag, 2006, ISBN 3-540-46287-2 [[pdf]](http://www.teco.edu/~cdecker/pub/decker_ucs2006.pdf)
 
-Introdcutional course from Chenyang Lu
-*Feedback Control Theory from a Computer System Perspective*
-Department of Computer Science, University of Virginia [ppt]
+Introdcutional course from Chenyang Lu   
+*Feedback Control Theory from a Computer System Perspective*   
+Department of Computer Science, University of Virginia [[ppt]](http://www.cs.virginia.edu/~cl7v/cs851-talks/control_tutorial.ppt)
 
-Joseph L. Hellerstein (Author), Yixin Diao (Author), Sujay Parekh (Author), Dawn M. Tilbury
-*Feedback Control of Computing Systems*
+Joseph L. Hellerstein (Author), Yixin Diao (Author), Sujay Parekh (Author), Dawn M. Tilbury   
+*Feedback Control of Computing Systems*   
 Wiley-IEEE Press (August 24, 2004), ISBN-13: 978-0471266372 
