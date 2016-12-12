@@ -10,8 +10,10 @@ Students
 
 * Cognitive event processing
 * Business model crunching
-* SCM as a data product: Student research project presenting the masters programme Services Computing as data product. [Repo](https://github.com/cdeck3r/SCM-DataProduct), [Wiki](https://github.com/cdeck3r/SCM-DataProduct/wiki)
-* IoT by Numb3rs: Student research project investigating plausibility and evolution of IoT infographic figures. [Repo](https://github.com/cdeck3r/IoTbyNumb3rs), [Wiki](https://github.com/cdeck3r/IoTbyNumb3rs/wiki)
+* SCM as a data product: [Wiki](https://github.com/cdeck3r/SCM-DataProduct/wiki), [Repo](https://github.com/cdeck3r/SCM-DataProduct)   
+Student research project presenting the masters programme Services Computing as data product.
+* IoT by Numb3rs: [Wiki](https://github.com/cdeck3r/IoTbyNumb3rs/wiki), [Repo](https://github.com/cdeck3r/IoTbyNumb3rs)   
+Student research project investigating plausibility and evolution of IoT infographic figures. 
 
 ## Hackathons
 
