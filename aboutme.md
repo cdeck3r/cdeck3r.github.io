@@ -16,7 +16,7 @@ After his PhD he started a professional career in statistical analysis of mass d
 
 ### Research at TecO
 
-* PhD on [Cooperation and Collaboration in Ubicomp](http://www.teco.edu/~cdecker/projects/fccs/)
+* PhD on [Cooperation and Collaboration in Ubicomp](research/fccs/fccs.md)
 * Collaborative Business Items ([CoBIs](http://www.teco.edu/~cdecker/cobis/))
 * Particles
 * [Projects](http://www.teco.edu/~cdecker/projects/)
