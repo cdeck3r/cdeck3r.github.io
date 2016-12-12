@@ -104,7 +104,12 @@ The feedback control approach is currently limited to a SISO system considering 
 Definitely, it is interesting to identify, e.g. by means of system identification, the effects of data processing on resources in dependence of input data. Hidden states in the data processing software, its natural non-linear behavior and limited computing and memory resources of Ubicomp devices make this topic a big challange. However, solving those difficulties could result in cooperation and collaboration behavior profiles, which allow a very fine-tuned resource usage adaptation in unpredicatable environments.
 
 Finally, established tool chains for system analysis and control synthesis, e.g. Matlab, can now be combined more deeply with model driven software development approaches, e.g. Eclipse modelling tool chain.
-Further Readings
+
+### Further Readings
+
+Decker, C.
+Prozesse
+Link
 
 Decker, C.
 *Prozessorganisation in eingebetteten, ubiquitären Rechnersystemen*
