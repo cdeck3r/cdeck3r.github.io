@@ -17,6 +17,8 @@ Term or two-term projects conducted by students.
 
 Results of hackathons conducted in masters programmes SCM and DBM.
 
+* DBM winter term 2016/17, Internet of Things (IoT)
+    * [IoT and Blockchain](https://github.com/NathalieH392/Blockchain_IoT_HHZ)
 * SCM summer term 2016, Internet of Things (IoT) 
     * Alexa
     * Kaffeekanne
