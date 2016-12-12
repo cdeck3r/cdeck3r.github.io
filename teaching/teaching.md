@@ -6,7 +6,7 @@ subtitle: Lectures / Projects / Hackathons
 
 ## Projects
 
-Students 
+Term or two-term projects conducted by students.
 
 * Cognitive event processing
 * Business model crunching
