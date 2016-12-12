@@ -13,7 +13,8 @@ Dissertation download: [diss_decker_final1.pdf](http://www.teco.edu/~cdecker/pro
 ## Synopsis
 
 In unknown environments, data processing on miniaturized sensor and computer systems may lead to runtime-variant process behavior affecting the overall system performance. Feedback controllers allow to monitor the computer system online and adjust runtime parameters for achieving a pre-defined behavior. The objectives are to ensure fairness among processes, avoid system overload, coordinate realtime and non-realtime processes, form collaborative communication groups among nodes and and enable the best possible achievement for a demanded battery lifetime.
-Theory of cooperative and collaborative process organisation
+
+## Theory of cooperative and collaborative process organisation
 
 In data processing we observe two types of behaviors during execution: (1) processes affecting each other and (2) jointly interacting processes. We define the process behavior as follows:
 
@@ -31,20 +32,23 @@ Because of conservation, the budget is modelled as an integrator, i.e. every bud
 
 This relationship is expressed in the budget/cost control loop, which is shown in the picture below.
 
-Budget/Cost control loop
+![Budget/Cost control loop](http://www.teco.edu/~cdecker/projects/fccs/budgetcost.jpg)
 
 The budget/cost control loop implements the separation of concerns principle. The unknown process behavior, e.g. execution time or energy consumption of a stateful sensor sampling process, can be thought of as the disturbance effect in this picture. The model separates between an ideal process execution behavior overlayed by an unknown disturbance.
-Insight
+
+## Insight
 
 The control approach has two behaviors, which can be derrived analytically from control theory: reference control, disturbance control.
 
-Reference control: a given setpoint is achieved through a controlled process organisation.
-Disturbance control: a disturbance during the process execution can be compensated.
-Both behaviors are shown in the pictures below.
-Control loop behavior
+* Reference control: a given setpoint is achieved through a controlled process organisation.
+* Disturbance control: a disturbance during the process execution can be compensated.
 
-The gained insight is that:
-    If a process organisation can be described by means of the budget/cost control loop, it shows the goal oriented process behavior of cooperation and collaboration.
+Both behaviors are shown in the pictures below.
+![Control loop behavior](http://www.teco.edu/~cdecker/projects/fccs/controlloop_behavior.jpg)
+
+**The gained insight is that:**
+
+> If a process organisation can be described by means of the budget/cost control loop, it shows the goal oriented process behavior of cooperation and collaboration.
 
 As a result, a novel theory of cooperative and collaborative process organisation is established. 
 It is not neccessary to concretly know the implementation of the process, i.e. what the process does. It is required that a process is part of a specific process class indicating it's timely behavior. So far, the theory was applied to periodic, aperiodic, realtime and distributed process classes.
@@ -65,18 +69,19 @@ Other improvements were demonstrated in ubiquitous computing appliances, such as
 and [CoBIs](http://www.teco.edu/~cdecker/cobis/), and other experimental setups and simulation studies. 
 A consistent view on theory, simulation and experiements was shown.
 
-Process 	Control action 	Organisation 	Achievments
-Periodic 	FQS 	cooperative, collaborative 	prompt data processing of all processes, novel operating system Particle OS
-Aperiodic 	controlled M/D/k/k 	cooperative 	fair event processing, avoiding overload
-Realtime 	BFS 	collaborative 	coordination of realtime with non-realtime processes, overall system speedup >2x, optimal utilization
-Distributed 	FCUP-MAC 	collaborative, cooperative 	32% less latency, up to 10x more successfully exchanged messages, equalizing energy capacity levels
-Energy management 	PControl 	cooperative 	a given operation duration (battery lifetime) is achieved best
+Process |	Control action |	Organisation |	Achievments
+---|---|---|---
+Periodic |	FQS |	cooperative, collaborative |	prompt data processing of all processes, novel operating system Particle OS
+Aperiodic |	controlled M/D/k/k |	cooperative |	fair event processing, avoiding overload
+Realtime |	BFS |	collaborative |	coordination of realtime with non-realtime processes, overall system speedup >2x, optimal utilization
+Distributed |	FCUP-MAC |	collaborative, cooperative |	32% less latency, up to 10x more successfully exchanged messages, equalizing energy capacity levels
+Energy management |	PControl |	cooperative |	a given operation duration (battery lifetime) is achieved best
 
 ## Relation to Ubicomp
 
 In Ubiquitous Computing (Ubicomp), the complexity of working with a multitude of devices surrounding the user changes by embedding them into the environment (see figure below). The user cannot distinguish between single devices and is only aware of available services. The complexity becomes a complexity of data processing (= software) on and between devices. We propose to organize this processing along the control mechanisms of cooperation and collaboration.
 
-IMG: ubicomp environment
+![ubicomp environment](http://www.teco.edu/~cdecker/projects/fccs/ubicomp.jpg)
 Fig. In Ubicomp, the device usage complexity moves into the background and becomes a data processing complexity. (Source: Philips Research)
 
 In order to find appropriate control setpoints for the budget/cost model, we introduce the principle of prompt data processing.
@@ -103,7 +108,7 @@ Further Readings
 
 Decker, C.
 *Prozessorganisation in eingebetteten, ubiquitären Rechnersystemen*
-PhD thesis (German), University of Karlsruhe, 2009.[pdf]
+PhD thesis (German), University of Karlsruhe, 2009.[[pdf]](http://www.teco.edu/~cdecker/projects/fccs/disputation_cdecker_final.pdf)
 Abstract(German): [[pdf]](http://www.teco.edu/~cdecker/projects/fccs/diss_abstract.pdf)
 Presentation(German): [[pdf]](http://www.teco.edu/~cdecker/projects/fccs/disputation_cdecker_final.pdf)
 
