@@ -12,12 +12,12 @@ After his PhD he started a professional career in statistical analysis of mass d
 
 ### Research at HHZ
 
-* [IoT Projects](aboutme.md)
+* [IoT Projects](/teaching/teaching.md)
 
 ### Research at TecO
 
 * PhD on [Cooperation and Collaboration in Ubicomp](research/fccs/fccs.md)
-* Collaborative Business Items ([CoBIs](research/cobis/cobis.md))
+* [CoBIs](research/cobis/cobis.md) - Collaborative Business Items
 * [Particles](http://particle.teco.edu)
 * [Projects](http://www.teco.edu/~cdecker/projects/)
 * [Publications](http://www.teco.edu/~cdecker/pub/)
