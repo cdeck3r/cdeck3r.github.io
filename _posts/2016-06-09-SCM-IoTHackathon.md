@@ -2,6 +2,9 @@
 layout: post
 title: SCM IoT hackathon @HHZ_BB
 share-img: /img/IoT_LivingLab_startup.png
+bigimg:
+  - "/img/Logo_HHZ.jpg" : "Herman Hollerith Zentrum"
+  - "/img/IoT_LivingLab_startup.png" : "Living Lab Startup (2016)"
 ---
 
 The 2-day IoT hackathon in the [masters programme "Services Computing" (SCM)](http://www.hhz.de/master/services-computing/) has finished. 
