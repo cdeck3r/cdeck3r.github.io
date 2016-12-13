@@ -3,7 +3,6 @@ layout: post
 title: DBM IoT Hackathon 2016 @HHZ_BB
 subtitle: IoT and Blockchain
 bigimg:
-  - "/img/MileChain/MileChain_Logo.png" : "MileChain: IoT Blockchain Application (2016)"
   - "/img/MileChain/Pres_MileChain_Sommer.png" : "Sven Sommer presents MileChain (2016)"
   - "/img/MileChain/Pres_MileChain_Kranz.png" : "MileChain's Product vision (2016)"
   - "/img/MileChain/Pres_MileChain_Schlosser.png" : "MileChain's BPM use case  (2016)"  
@@ -11,9 +10,10 @@ bigimg:
 ---
 
 Today we have seen the final presenations of a the IoT hackathon in the Digital Business Management (DBM) masters programme.
-Particpants were given the task to investigate IoT Blockchain applications. 
+Particpants were given the task to investigate IoT Blockchain applications. They came up with the idea of MileChain to fight possible milage fraud in used car deals. 
 
-They came up with the idea of MileChain to fight possible milage fraud in used car deals. 
+![MileChain Logo](/img/MileChain/MileChain_Logo.png)
+
 Basically, the blockchain records historical information, e.g. milage, from the cars, which can be 
 checked by the buyers. 
 
