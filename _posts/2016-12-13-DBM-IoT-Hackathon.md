@@ -11,6 +11,7 @@ bigimg:
 
 Today we have seen the final presenations of a the IoT hackathon in the Digital Business Management (DBM) masters programme.
 Particpants were given the task to investigate IoT Blockchain applications. They came up with the idea of MileChain to fight possible milage fraud in used car deals. 
+![SS Pres]8/img/MileChain/Pres_MileChain_Sommer.png)
 
 ![MileChain Logo](/img/MileChain/MileChain_Logo.png)
 
