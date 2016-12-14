@@ -5,7 +5,6 @@ subtitle: Lectures / Projects / Hackathons
 ---
 
 ## Projects
-
 Term or two-term projects conducted by students.
 
 * Cognitive event processing
@@ -14,12 +13,9 @@ Term or two-term projects conducted by students.
 * [IoT by Numb3rs](https://github.com/cdeck3r/IoTbyNumb3rs): Student research project investigating plausibility and evolution of IoT infographic figures. 
 
 ## Hackathons
-
 Results of hackathons conducted in masters programmes SCM and DBM.
 
 ### Services Computing (SCM)
-
-    
 
 #### Winter term 2016/17, Internet of Things (IoT)
 
@@ -34,8 +30,6 @@ Results of hackathons conducted in masters programmes SCM and DBM.
 
 ### Digital Business Management (DBM)
 
-   
-   
 #### Winter term 2016/17, Internet of Things (IoT)
 
 * [IoT and Blockchain](https://github.com/NathalieH392/Blockchain_IoT_HHZ/wiki): Making a car's milage performance more transparent using IoT and blockchain technology.
