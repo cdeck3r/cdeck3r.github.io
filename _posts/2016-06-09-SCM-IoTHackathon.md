@@ -22,5 +22,5 @@ All projects are publicly available. Checkt out the following links:
 
 Thanks to all students from the SCM IoT course of the summer term 2016.
 
-Cheers,
+Cheers,   
 Christian
