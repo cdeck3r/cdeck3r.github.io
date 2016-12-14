@@ -40,17 +40,17 @@ Results of hackathons conducted in masters programmes SCM and DBM.
 
 Lectures are given every term at the HHZ and the Reutlingen University. 
 
-### Masters programme SCM "Services Computing" (HHZ)
+#### Masters programme SCM "Services Computing" (HHZ)
 
 * Internet of Things (IoT)
 
-### Masters programme DBM "Digital Business Management" (HHZ)
+#### Masters programme DBM "Digital Business Management" (HHZ)
 
 * Softwaremanagement
 * Internet of Things (IoT)
 * Big Data and Analytics 
 
-### Bachelor programme "Wirtschaftsinformatik" (Reutlingen University)
+#### Bachelor programme "Wirtschaftsinformatik" (Reutlingen University)
 
 * Statistics
 * Software engineering
