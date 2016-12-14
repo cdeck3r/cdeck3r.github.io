@@ -2,7 +2,7 @@
 layout: post
 title: DBM IoT Hackathon 2016 @HHZ_BB
 subtitle: IoT and Blockchain
-share-img: https://cdeck3r.github.io/img/MileChain/Pres_MileChain_Sommer.png
+share-img: "https://cdeck3r.github.io/img/MileChain/Pres_MileChain_Sommer.png"
 bigimg:
   - "/img/MileChain/Pres_MileChain_Sommer.png" : "Sven Sommer presents MileChain (2016)"
   - "/img/MileChain/Pres_MileChain_Kranz.png" : "MileChain's Product vision (2016)"
