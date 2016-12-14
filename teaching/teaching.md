@@ -38,7 +38,7 @@ Results of hackathons conducted in masters programmes SCM and DBM.
 
 ## Lectures
 
-Lectures are given every term at the HHZ and the Reutlingen University. 
+Lectures take place every term at the HHZ and the Reutlingen University. 
 
 #### Masters programme SCM "Services Computing" (HHZ)
 
