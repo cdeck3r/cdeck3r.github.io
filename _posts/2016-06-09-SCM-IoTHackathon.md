@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SCM IoT hackathon @HHZ_BB
-share-img: /img/IoT_LivingLab_startup.png
+share-img: "http://cdeck3r.github.io/img/IoT_LivingLab_startup.png"
 bigimg:
   - "/img/IoT_LivingLab_startup.png" : "Living Lab Startup (2016)"
   - "/img/IoT_LivingLab_Alexa.png" : "Building Alex IoT Assisstant (2016)"
