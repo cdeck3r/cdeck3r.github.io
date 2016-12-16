@@ -10,15 +10,14 @@ bigimg:
   - "/img/MileChain/MileChain_autoscout24.png" : "MileChain Autoscout24 integration (2016)"
 ---
 
-Today we have seen the final presenations of a the IoT hackathon in the Digital Business Management (DBM) masters programme.
-Particpants were given the task to investigate IoT Blockchain applications. They came up with the idea of MileChain to fight possible milage fraud in used car deals. Basically, the blockchain records historical information, e.g. milage, from the cars, which can be checked by the buyers. 
+Today we have seen the final presenations of the IoT hackathon in the Digital Business Management (DBM) masters programme.
+Participants were given the task to investigate IoT Blockchain applications. They came up with the idea of MileChain to fight possible milage fraud in used-car deals. Basically, the blockchain records historical information, e.g. milage, from the cars, which can be checked by the buyers. 
 
 ![MileChain Logo](/img/MileChain/MileChain_Logo.png)
 
 A prototype system was implemented using IBM Bluemix NodeRED environment. It demonstrates the idea and the rich interaction of
 IoT devices, services, backend systems and various types of data formats within an IoT solution.
-A smartphone supplied the application with step counter values to emulate a car's milage. Instead of a blockchain service and encryption techniques, 
-the miners were simulated by a mail exchange. 
+A smartphone supplied the application with step counter values to emulate a car's milage. Instead of a blockchain service and encryption techniques, the miners were simulated by a mail exchange. 
 
 ![NodeRED MileChain Application](/img/MileChain/MileChain_NodeRED.png)
 
