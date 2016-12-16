@@ -6,6 +6,7 @@ subtitle: Smart Data Services / IoT / Ubicomp
 
 ## Research at HHZ
 
+Smart Data Services are components to (ameliorate)[http://www.dictionary.com/browse/ameliorate] the benefits of data-intensive environments including M2M settings, telematic networks and the Internet-of-Things (IoT). As a result, we create data products, which enhance regular poducts and services by data intelligence to provide new functionalities to the user.
 
 
 ## Research at [TecO](http://www.teco.edu/~cdecker/)
