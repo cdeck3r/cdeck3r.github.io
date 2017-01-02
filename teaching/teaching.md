@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-subtitle: Lectures / Projects / Hackathons
+subtitle: Projects / Hackathons / Lectures
 ---
 
 ## Projects
