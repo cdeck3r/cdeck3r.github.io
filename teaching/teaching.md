@@ -6,8 +6,8 @@ subtitle: Projects / Hackathons / Lectures
 
 <div class="list-filters">
   <a href="#projects" class="list-filter filter-selected">Projects</a>
-  <a href="/popular" class="list-filter">Hackathons</a>
-  <a href="/tutorials" class="list-filter">Lectures</a>
+  <a href="#hackathons" class="list-filter">Hackathons</a>
+  <a href="#lectures" class="list-filter">Lectures</a>
 </div>
 
 ## Projects
