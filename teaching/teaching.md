@@ -4,6 +4,12 @@ title: Teaching
 subtitle: Projects / Hackathons / Lectures
 ---
 
+<div class="list-filters">
+  <a href="/" class="list-filter filter-selected">All posts</a>
+  <a href="/popular" class="list-filter">Most Popular</a>
+  <a href="/tutorials" class="list-filter">Tutorials</a>
+</div>
+
 ## Projects
 Term or two-term projects conducted by students.
 
