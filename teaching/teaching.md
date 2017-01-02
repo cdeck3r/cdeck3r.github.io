@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Teaching
-subtitle: Projects / Hackathons / Lectures
 ---
 
 <div class="list-filters">
