@@ -17,8 +17,8 @@ at the end of the 2nd day of the hackathon.
 All projects are publicly available. Checkt out the following links:
 
 * [Alexa IoT Assisstant](https://bitbucket.org/iotalexahhz/iotalexahhz/wiki/Home): Using Amazons Alexa Assisstant for GUI-less IoT services 
-* [IoT Lever-Action Coffee Airpot](https://github.com/miwurster/msc-iot-kaffeekanne): measure the current coffee level at HHZ's coffee pot, share it via app and notify users via Twitter.
-* [Smart Home](https://github.com/glasbran/Hackathon---Homeautomation): MVP (Minimum Viable Product) services for an home automation system
+* [IoT Lever-Action Coffee Airpot](https://github.com/miwurster/msc-iot-kaffeekanne): It measures the current coffee level at HHZ's coffee pot; share it via app and notify users via Twitter.
+* [Smart Home](https://github.com/glasbran/Hackathon---Homeautomation): MVP (Minimum Viable Product) services for a home automation system
 
 Thanks to all students from the SCM IoT course of the summer term 2016.
 
