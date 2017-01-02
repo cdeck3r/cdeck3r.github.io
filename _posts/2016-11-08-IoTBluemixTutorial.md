@@ -4,8 +4,8 @@ title: IoT Bluemix Tutorial on IoT2016
 share-img: "https://cdeck3r.github.io/img/blog/IoTBluemixTutorial_Twitter.jpg"
 bigimg:
   - "/img/blog/Tutorial_IoT2016_0.png" : "IoT Bluemix Tutorial (IoT2016)"
-  - "/img/blog/Tutorial_IoT2016_0.png" : "IoT Bluemix Tutorial (IoT2016)"
-  - "/img/blog/Tutorial_IoT2016_0.png" : "IoT Bluemix Tutorial (IoT2016)"  
+  - "/img/blog/Tutorial_IoT2016_1.png" : "IoT Bluemix Tutorial (IoT2016)"
+  - "/img/blog/Tutorial_IoT2016_2.png" : "IoT Bluemix Tutorial (IoT2016)"  
 ---
 
 On November 7, 2016 during the [IoT2016](http://www.iot-conference.org/iot2016/) conference at Suttgart, Germany, Sebastian Mantsch and I gave an IoT Bluemix tutorial to the conference attendees.
