@@ -64,7 +64,7 @@ Check out the [project's repo](https://github.com/hhz-hackathon-2017/IotHackatho
 
 All projects are publicly available. Checkt out the following links:
 
-* Beacons for the sensor instrumented room, https://github.com/tim8890/hhz-hackathon-team-beacon/wiki/Wiki
-* Concept and Implementation of Real-World Likes, https://github.com/hhz-hackathon-2017/IotHackathon
+* [Beacons for the sensor instrumented room](https://github.com/tim8890/hhz-hackathon-team-beacon/wiki/Wiki)
+* [Concept and Implementation of Real-World Likes](https://github.com/hhz-hackathon-2017/IotHackathon)
 
 
