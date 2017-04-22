@@ -11,8 +11,8 @@ Smart Data Services are components to [ameliorate](http://www.dictionary.com/bro
 
 ## Research at [TecO](http://www.teco.edu/~cdecker/)
 
-* PhD on [Cooperation and Collaboration in Ubicomp](research/fccs/fccs.md)
-* [CoBIs](research/cobis/cobis.md) - Collaborative Business Items
+* PhD on [Cooperation and Collaboration in Ubicomp](fccs/fccs.md)
+* [CoBIs](cobis/cobis.md) - Collaborative Business Items
 * [Particles](http://particle.teco.edu)
 * [Projects](http://www.teco.edu/~cdecker/projects/)
 * [Publications](http://www.teco.edu/~cdecker/pub/)
