@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Feedback Controlled Computing systems
+title: Feedback Controlled Computing Systems
 subtitle: Cooperation and Collaboration for Ubicomp
 ---
 
