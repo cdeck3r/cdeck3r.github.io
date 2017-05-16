@@ -33,7 +33,7 @@ Results of hackathons conducted in masters programmes SCM and DBM.
 
 ### Digital Business Management (DBM)
 
-* [Summary blog post](2016-12-13-DBM-IoT-Hackathon/) about the IoT Blockchain hackathon (IoT, winter term 2016/17)
+* [Summary blog post](/2016-12-13-DBM-IoT-Hackathon/) about the IoT Blockchain hackathon (IoT, winter term 2016/17)
     * [IoT and Blockchain](https://github.com/NathalieH392/Blockchain_IoT_HHZ/wiki): Making a car's milage performance more transparent using IoT and blockchain technology.
 
 ## Lectures
