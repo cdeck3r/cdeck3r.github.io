@@ -26,7 +26,7 @@ Results of hackathons conducted in masters programmes SCM and DBM.
     * Beacons: Investigate BLE beacon applications to support students and lectures at the HHZ
     * Real-World "Likes": Transfering the Twitter/Facebook concept of "Likes" into the real world
 
-* [Blog post](/2016-06-09-SCM-IoTHackathon/) about hackathon projects (IoT, summer term 2016/17)
+* [Blog post](/2016-06-09-SCM-IoTHackathon/) about hackathon projects (IoT, summer term 2017)
     * [Alexa IoT Assisstant](https://bitbucket.org/iotalexahhz/iotalexahhz/wiki/Home): Using Amazons Alexa Assisstant for GUI-less IoT services 
     * [IoT Lever-Action Coffee Airpot](https://github.com/miwurster/msc-iot-kaffeekanne): measure the current coffee level at HHZ's coffee pot, share it via app and notify users via Twitter.
     * [Smart Home](https://github.com/glasbran/Hackathon---Homeautomation): MVP (Minimum Viable Product) services for an home automation system
