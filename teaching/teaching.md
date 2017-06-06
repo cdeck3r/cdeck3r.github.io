@@ -14,7 +14,7 @@ Term or two-term projects conducted by students.
 
 * [SCM as a Data Product](https://github.com/cdeck3r/SCM-DataProduct): Student research project presenting the masters programme Services Computing as data product.
 * [Cognitive Event Correlation](https://github.com/Event-Riddle/MenuCard/wiki): A cognitive event handling service for preventing unnecessary code activations on serverless platforms utilizing only relevant events.
-* [Business model crunching](https://bitbucket.org/bmcrprojectteam/bmcr): A computer aided approach for Lean Canvas creation
+* [Business model crunching](https://bitbucket.org/bmcrprojectteam/bmcr): A computer aided approach for Lean Canvas creation. [Try it online](https://canvascrawler.eu-gb.mybluemix.net/).
 * [IoT by Numb3rs](https://github.com/cdeck3r/IoTbyNumb3rs): Student research project investigating plausibility and evolution of IoT infographic figures. 
 
 ## Hackathons
