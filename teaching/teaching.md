@@ -12,7 +12,7 @@ title: Teaching
 ## Projects
 Term or two-term projects conducted by students.
 
-* [SCM as a data product](https://github.com/cdeck3r/SCM-DataProduct): Student research project presenting the masters programme Services Computing as data product.
+* [SCM as a Data Product](https://github.com/cdeck3r/SCM-DataProduct): Student research project presenting the masters programme Services Computing as data product.
 * Cognitive event processing
 * [Business model crunching](https://bitbucket.org/bmcrprojectteam/bmcr): A computer aided approach for Lean Canvas creation
 * [IoT by Numb3rs](https://github.com/cdeck3r/IoTbyNumb3rs): Student research project investigating plausibility and evolution of IoT infographic figures. 
