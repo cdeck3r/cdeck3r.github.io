@@ -46,7 +46,7 @@ They proposed various additional devices, such as Amazon's Dash Buttons, smartph
 
 All projects are publicly available. Checkt out the following links:
 
-* [StayFocussed]() - A service enabling improved concentration during lectures providing recommendations.
+* [StayFocussed](https://github.com/jules185/IoT_Hackathon/wiki) - A service enabling improved concentration during lectures providing recommendations.
 * [FarbenFroh](https://git.io/vHQCx) - Sense, evaluate and display, in particular using peripheral perception, the current quality of lecturing environment
 * [Dashbutton](https://github.com/cin9/hhz_hackathon_dashbuttons/wiki) - Three IoT use cases of what you can do with an Amazon DashButton.
 * [Emergency Button](https://github.com/91kodi1bvg/Emergency-DashButton/wiki) - Call for help and confirm.
