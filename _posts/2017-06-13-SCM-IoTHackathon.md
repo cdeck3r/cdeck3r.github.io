@@ -30,7 +30,7 @@ Ultimate goal of this hackathon is to explore IoT services which are *permanentl
 
 ## Sensor-instrumented Room
 
-The hackathon utilized an sensor intrumented environment installed in our lecture room. The Arduino based wireless sensor network was evaluated in the [last term's hackathon](/_posts/2017-01-18-SCM-IoTHackathon). The following sensors were deployed multiple times at various places in the room.
+The hackathon utilized an sensor intrumented environment installed in our lecture room. The Arduino based wireless sensor network was evaluated in the [last term's hackathon](/2017-01-18-SCM-IoTHackathon). The following sensors were deployed multiple times at various places in the room.
 
 * Movement
 * Temperature
