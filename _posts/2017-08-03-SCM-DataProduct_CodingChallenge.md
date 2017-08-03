@@ -4,14 +4,12 @@ title: Coding Challenge for a Bot-based Data Product
 subtitle: Services Computing as a Data Product
 share-img: "http://cdeck3r.github.io/img/blog/SCM-DataProduct_CodingChallenge.jpg"
 bigimg:
-  - "https://github.com/cdeck3r/SCM-DataProduct/raw/master/Bilder/Image%20uploaded%20from%20iOS.jpg" : "Coding Appartement (Sascha, Janic, Soley, 2017)"
-  - "https://github.com/cdeck3r/SCM-DataProduct/raw/master/Bilder/Image%20uploaded%20from%20iOS%20(10).jpg" : "Coding Appartement (Sascha, Janic, Soley, 2017)"
-  - "https://github.com/cdeck3r/SCM-DataProduct/raw/master/Bilder/Image%20uploaded%20from%20iOS%20(1).jpg" : "Some Art (Sascha, Janic, Soley, 2017)"
-  - "https://github.com/cdeck3r/SCM-DataProduct/raw/master/Bilder/Image%20uploaded%20from%20iOS%20(4).jpg" : "Thinking, Coding, Talking (Sascha, Janic, Soley, 2017)"
-  - "https://github.com/cdeck3r/SCM-DataProduct/raw/master/Bilder/Image%20uploaded%20from%20iOS%20(8).jpg" : "Overview (Sascha, Janic, Soley, 2017)"
-  - "https://github.com/cdeck3r/SCM-DataProduct/raw/master/Bilder/Image%20uploaded%20from%20iOS%20(9).jpg" : "Time to eat (Sascha, Janic, Soley, 2017)"
-  - "https://github.com/cdeck3r/SCM-DataProduct/raw/master/Bilder/Image%20uploaded%20from%20iOS%20(12).jpg" : "Visiting Strasbourg (Sascha, Janic, Soley, 2017)"
-  - "https://github.com/cdeck3r/SCM-DataProduct/raw/master/Bilder/IMG_20170611_150629.jpg" : "Focused Coding (Sascha, Janic, Soley, 2017)"
+  - "/img/blog/CodingChallenge_bigimg_1.jpg" : "Coding Appartement (Sascha, Janic, Soley, 2017)"
+  - "/img/blog/CodingChallenge_bigimg_2.jpg" : "Thinking, Coding, Talking (Sascha, Janic, Soley, 2017)"
+  - "/img/blog/CodingChallenge_bigimg_3.jpg" : "Agenda (Sascha, Janic, Soley, 2017)"
+  - "/img/blog/CodingChallenge_bigimg_4.jpg" : "Time to eat (Sascha, Janic, Soley, 2017)"
+  - "/img/blog/CodingChallenge_bigimg_5.jpg" : "Visiting Strasbourg (Sascha, Janic, Soley, 2017)"
+  - "/img/blog/CodingChallenge_bigimg_6.jpg" : "Focused Coding (Sascha, Janic, Soley, 2017)"
 ---
 
 [Services Computing (SCM)](http://www.hhz.de/master/services-computing/) is an IT Masters program. It teaches the scientfic and engineering methods of IT-focused value creation for the digital business.
