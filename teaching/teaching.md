@@ -12,6 +12,8 @@ title: Teaching
 ## Projects
 Term or two-term projects conducted by students.
 
+* [Coding Challenge blog post](/2017-08-03-SCM-DataProduct_CodingChallenge/) about the SCM as a Data Product project
+
 * [Summary blog post](/2017-04-24-SCM-Projectday/) about the HHZ project day (winter term 2016/17)
     * [SCM as a Data Product](https://github.com/cdeck3r/SCM-DataProduct): Student research project presenting the masters programme Services Computing as data product.
     * [Cognitive Event Correlation](https://github.com/Event-Riddle/MenuCard/wiki): A cognitive event handling service for preventing unnecessary code activations on serverless platforms utilizing only relevant events.
