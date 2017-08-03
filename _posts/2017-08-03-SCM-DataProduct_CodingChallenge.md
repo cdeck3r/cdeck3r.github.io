@@ -14,8 +14,6 @@ bigimg:
   - "https://github.com/cdeck3r/SCM-DataProduct/raw/master/Bilder/IMG_20170611_150629.jpg" : "Focused Coding (Sascha, Janic, Soley, 2017)"
 ---
 
-## Services Computing as a Data Product
-
 [Services Computing (SCM)](http://www.hhz.de/master/services-computing/) is an IT Masters program. It teaches the scientfic and engineering methods of IT-focused value creation for the digital business.
 
 We apply these methods to our own program by investigating our students' journey through the program. One project is to provide [SCM as a Data Product](https://github.com/cdeck3r/SCM-DataProduct) to our students. Providing information throughout the program's duration right at your fingertips. A technical implementation of this concept is the use of chatbots to directly answer many of our students' questions.
