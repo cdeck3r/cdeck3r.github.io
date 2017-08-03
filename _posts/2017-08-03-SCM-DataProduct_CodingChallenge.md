@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coding Challenge for Bot-based Data Product 
+title: Coding Challenge for a Bot-based Data Product 
 subtitle: Services Computing as a Data Product
 share-img: "http://cdeck3r.github.io/img/blog/SCM-DataProduct_CodingChallenge.jpg"
 bigimg:
