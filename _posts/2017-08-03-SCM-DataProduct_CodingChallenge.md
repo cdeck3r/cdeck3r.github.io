@@ -30,7 +30,7 @@ The objective was to evaluate the technical feasibility of chatbots to support t
 * Chatfuel
 * QnAMaker
 
-The project runs until end of September. Afterwards, we expect to have first bot ready to have regular conversations with our students. We are still looking for the chatbot's name. If you have an idea, drop me a mail.
+The project runs until end of September. Afterwards, we expect to have a first bot ready to have regular conversations with our students. We are still looking for the chatbot's name. If you have an idea, drop me a mail. :-)
 
 ## Further Ressources
 
