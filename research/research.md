@@ -8,7 +8,7 @@ subtitle: Smart Data Services / IoT / Data Products
 
 **Research focus: How to engineer smart data products?**
 
-Christian's research interest is the study of data appliances. As computers are ubiquitous in our daily life they transform the real world in *data-intensive environments*. Christian develops methods to design and engineer Smart Data Services as mechanisms to exploit computing capabilities therein. 
+Christian's research interest is the study of data appliances. As computers pervade our daily life they transform the real world in *data-intensive environments*. Christian develops methods to design and engineer Smart Data Services as mechanisms to exploit computing capabilities therein.
 
 Primarily, in the Internet of Things (IoT), Smart Data Services become business relevant first-class resources and enable new business models. As a result, *Data Products* emerge where products and services emboding data intelligence provide novel value propositions to the user. 
 
