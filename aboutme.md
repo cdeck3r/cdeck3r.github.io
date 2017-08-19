@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Short CV & Links
+subtitle: Computer Scientist, IoT Researcher
 ---
 
 Christian is a computer science professor at the [Herman Hollerith Center (HHZ)](http://www.hhz.de) in Böblingen, a research center of the [Reutlingen University](http://reutlingen-university.de/). He is interested in Smart Services and Data Products in data-intensive environments. Primary object of research is the Internet-of-Things (IoT). Results are included in his [lectures for master students](/teaching/teaching.md) at the HHZ. 
