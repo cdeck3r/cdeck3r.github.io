@@ -12,7 +12,7 @@ title: Data Driven Lectures
 Data Driven Lectures aim at a continuous progress and quality monitoring of my lecturing activities
 through the use internet technology. Students attending my lectures use their smartphones, tablet, and laptops to provide feedback on various aspects of a lecture, which enables me to incrementally adapt and improve my lectures. Collected evaluation results display positive effects on balancing material covered, learning speed and effort.
 
-I implemented Data Driven Lectures within the [BSc. Business Informatics program at the Reutlingen University](http://www.inf.reutlingen-university.de/bachelor/wirtschaftsinformatik-wi/was-ist-wi/).
+I have implemented Data Driven Lectures within the [BSc. Business Informatics program at the Reutlingen University](http://www.inf.reutlingen-university.de/bachelor/wirtschaftsinformatik-wi/was-ist-wi/).
 
 *embed slides*
 
