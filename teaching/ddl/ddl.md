@@ -15,7 +15,7 @@ through the use internet technology. Students attending my lectures use their sm
 
 I have implemented Data Driven Lectures within the [BSc. Business Informatics program at the Reutlingen University](http://www.inf.reutlingen-university.de/bachelor/wirtschaftsinformatik-wi/was-ist-wi/).
 
-*embed slides*
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3N8wrLe3pPyNpi" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/3N8wrLe3pPyNpi" title="Data Driven Lectures (Intro)" target="_blank">Data Driven Lectures (Intro)</a> </strong> von <strong><a href="//www.slideshare.net/ChristianDecker4" target="_blank">Christian Decker</a></strong> </div>
 
 ## Instruments and Key Statistics
 
