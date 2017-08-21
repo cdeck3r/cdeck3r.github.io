@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Data Driven Lectures
+subtitle: Intro / Instruments / Smart Environments
 ---
 
 **tl;dr - What are Data Driven Lectures?**
