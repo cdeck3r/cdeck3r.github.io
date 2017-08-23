@@ -29,7 +29,7 @@ Bascially, we distinguish between three stages of extension for smart environmen
 [Data Driven Lectures (DDL)](/teaching/ddl) aim at a continuous progress and quality monitoring of my lecturing activities
 through the use internet technology. A classroom embedding various Internet-of-Things (IoT) technologies connects directly lecturing and learning activities. The room perceives the current situation of all attending students and enables immediate feedback and control on breaks, progress and pace of a lecture. As a result, it virtually appears that the environment reacts in an intelligent way, i.e. supporting the lecture. 
 
-*embed slides*
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/CoIdyMvD4fDRtG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ChristianDecker4/smart-environment-for-ddl" title="Smart Environment for DDL" target="_blank">Smart Environment for DDL</a> </strong> from <strong><a href="https://www.slideshare.net/ChristianDecker4" target="_blank">Christian Decker</a></strong> </div>
 
 ## Hardware and Software
 
