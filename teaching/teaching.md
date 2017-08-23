@@ -50,7 +50,7 @@ Lectures take place every term at the HHZ and the Reutlingen University.
 Some of them are organized as [Data Driven Lectures (DDL)](/teaching/ddl/).
 
 #### Masters programme SCM "Services Computing" (HHZ)
-*DDL Type: [Smart Environment](/teaching/ddl/)*
+*DDL Type: [Smart Environment](/research/se/)*
 * Internet of Things (IoT)
 
 
