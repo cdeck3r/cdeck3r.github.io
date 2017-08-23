@@ -6,7 +6,8 @@ subtitle: Smart Data Services / IoT / Data Products
 
 ## Research at HHZ
 
-**Research focus: How to engineer smart data products?**
+**Research focus: How to engineer smart data products?**    
+**Visit the lab on [Smart Environments](/research/se/) at HHZ**
 
 Christian's research interest is the study of data appliances. As computers pervade our daily life they transform the real world in *data-intensive environments*. Christian develops methods to design and engineer Smart Data Services as mechanisms to exploit computing capabilities therein.
 
