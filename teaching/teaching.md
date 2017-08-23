@@ -52,7 +52,6 @@ Some of them are organized as [Data Driven Lectures (DDL)](/teaching/ddl/).
 #### Masters programme SCM "Services Computing" (HHZ)
 
 * Internet of Things (IoT)
-
 *DDL Type: [Smart Environment](/teaching/ddl/)*
 
 #### Masters programme DBM "Digital Business Management" (HHZ)
@@ -66,5 +65,4 @@ Some of them are organized as [Data Driven Lectures (DDL)](/teaching/ddl/).
 * Statistics
 * Software engineering
 * Computer networks
-
 *DDL Type: [Kanban, Retrospectives, Opinion polls](/teaching/ddl/)*
