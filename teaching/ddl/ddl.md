@@ -2,6 +2,7 @@
 layout: page
 title: Data Driven Lectures
 subtitle: Intro / Instruments / Smart Environments
+share-img: "http://cdeck3r.github.io/img/DDL_shareimg.png"
 ---
 
 **tl;dr - What are Data Driven Lectures?**
