@@ -52,12 +52,15 @@ Some of them are organized as [Data Driven Lectures (DDL)](/teaching/ddl/).
 #### Masters programme SCM "Services Computing" (HHZ)
 *DDL Type: [Smart Environment](/teaching/ddl/)*
 * Internet of Things (IoT)
-      
-#### Masters programme DBM "Digital Business Management" (HHZ)
+       
 
+#### Masters programme DBM "Digital Business Management" (HHZ)
+      
+      
 * Softwaremanagement
 * Internet of Things (IoT)
 * Big Data and Analytics 
+      
       
 #### Bachelor programme "Wirtschaftsinformatik" (Reutlingen University)
 *DDL Type: [Kanban, Retrospectives, Opinion polls](/teaching/ddl/)*
