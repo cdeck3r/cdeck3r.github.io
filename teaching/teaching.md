@@ -53,12 +53,14 @@ Some of them are organized as [Data Driven Lectures (DDL)](/teaching/ddl/).
 *DDL Type: [Smart Environment](/teaching/ddl/)*
 * Internet of Things (IoT)
 <br>
+
 #### Masters programme DBM "Digital Business Management" (HHZ)
 <br>
 * Softwaremanagement
 * Internet of Things (IoT)
 * Big Data and Analytics 
-<br>      
+<br>
+
 #### Bachelor programme "Wirtschaftsinformatik" (Reutlingen University)
 *DDL Type: [Kanban, Retrospectives, Opinion polls](/teaching/ddl/)*
 * Statistics
