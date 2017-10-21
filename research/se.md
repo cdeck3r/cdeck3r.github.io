@@ -7,11 +7,13 @@ share-img: "http://cdeck3r.com/img/blog/IoT_Hackathon_SS17.png"
 
 **tl;dr - What is a Smart Environment?**
 
-*video, tbd*
+Radio interview on Smart Environments as part of my data driven lectures.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347130847&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 ## Intro and Types of Smart Environments
 
-A smart environment is a sensor and actuator instrumented room or space. Embedded networked computer systems make the room perceive physical state and activties within. In a smart environment physical routines and information processes may seamlessly interact with each other.
+A smart environment is a sensor and actuator instrumented room or space. Embedded networked computer systems make the room perceive physical state and activties within. In a smart environment user routines and information processes may seamlessly interact with each other.
 
 At the HHZ, we have implemented a smart environment to support [Data Driven Lectures (DDL)](/teaching/ddl). 
 The installation runs 24/7 and supports students as well as lectures in learning and teaching activities. 
