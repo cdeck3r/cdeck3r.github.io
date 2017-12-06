@@ -9,7 +9,7 @@ title: Teaching
   <a href="#lectures" class="list-filter">Lectures</a>
 </div>
 
-## Master Programmes @HHZ
+## Masters Programmes @HHZ
 
 Lectures on [Services Computing Master (SCM)](http://www.servicescomputingmaster.de/) and [Digital Business Management (DBM)](http://www.digitalbusinessmaster.de/) take place every term at the HHZ. 
 Some of them are organized as [Data Driven Lectures (DDL)](/teaching/ddl/).
