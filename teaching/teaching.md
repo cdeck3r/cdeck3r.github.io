@@ -16,7 +16,7 @@ Some of them are held in our [Smart Environment](/research/se/) for data driven 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9d5GgF6wVEI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" src="http://cdeck3r.com/img/SmartEnvironment_shareimg.png" frameborder="0" gesture="media"></iframe>
+<iframe width="560" src="http://cdeck3r.com/img/SmartEnvironment_shareimg.png" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ## Projects
 Term or two-term projects conducted by students.
