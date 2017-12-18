@@ -2,7 +2,7 @@
 layout: post
 title: IoT Hackathon on Smart Environments @HHZ_BB
 subtitle: Smart Environments for Teaching and Learning
-share-img: "http://cdeck3r.github.io/img/blog/IoT_Hackathon_SS17.png"
+share-img: "http://cdeck3r.com/img/SmartEnvironment_shareimg.png"
 bigimg:
   - "/img/blog/IoT_Hackathon_SS17_bigimg_0.png" : "IoT Hacking (2017)"
   - "/img/blog/IoT_Hackathon_SS17_bigimg_1.png" : "Testing Dash Buttons (2017)"
