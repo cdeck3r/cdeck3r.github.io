@@ -53,6 +53,7 @@ Finally, the use of peripherial displays and other actuators to let the environe
 
 Recent activities are reported in the articles below.
 
+* Thekla Walker and Stefan Belz visit the HHZ, [Tweet](https://twitter.com/cdeck3r/status/941779180068499457)
 * T. Strobl, State Minister of the Interior visits HHZ, [Tweet](https://twitter.com/cdeck3r/status/880786015845273600)
 * June 2017, SCM Hackathon, [blog post & projects](http://cdeck3r.com/2017-06-13-SCM-IoTHackathon/)
 * January 2017, SCM Hackathon, [blog post](http://cdeck3r.com/2017-01-18-SCM-IoTHackathon/)
