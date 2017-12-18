@@ -2,7 +2,7 @@
 layout: page
 title: Smart Environments
 subtitle: Intro / DDL / Research
-share-img: "http://cdeck3r.com/img/blog/IoT_Hackathon_SS17.png"
+share-img: "http://cdeck3r.com/img/SmartEnvironment_shareimg.png"
 ---
 
 **tl;dr - What is a Smart Environment?**
