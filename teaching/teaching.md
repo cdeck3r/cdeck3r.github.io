@@ -14,7 +14,7 @@ title: Teaching
 Lectures on [Services Computing Master (SCM)](http://www.servicescomputingmaster.de/) and [Digital Business Management (DBM)](http://www.digitalbusinessmaster.de/) take place every term at the HHZ. 
 Some of them are held in our [Smart Environment](/research/se/) for data driven lecturing (DDL).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9d5GgF6wVEI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9d5GgF6wVEI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> ![Smart Environment](http://cdeck3r.com/img/SmartEnvironment_shareimg.png)
 
 ## Projects
 Term or two-term projects conducted by students.
