@@ -36,6 +36,16 @@ Every week, I check the key statistics of each intrument in order to prepare the
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/8S7yjP5wii09zI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ChristianDecker4/data-instrumentsforddl" title="Data instruments for DDL" target="_blank">Data instruments for DDL</a> </strong> from <strong><a href="https://www.slideshare.net/ChristianDecker4" target="_blank">Christian Decker</a></strong> </div>
 
+## Use Case: Live Opinion Polls
+
+I demonstrate a spontaneous use case of opinion polls during a lecture. At the beginning of each lecture, I begin with a quick review of the last lecture's topic. Usually, I change the presentation media. While the topic was introduced with slides previously, during the review I utilize a chalk board and intensive Q&A with the students.
+
+In the lecture on computer networks, we deeply looked into [ARQ protocols](https://en.wikipedia.org/wiki/Automatic_repeat_request) for reliable data transfer using slides and simulation. I was interested, whether the review's change in the presentation style was perceived positively by the students. I performed a quick poll before and after the review. Students raised their smartphones and tablets and accessed the opinion poll form via QR code. The figure below depicts the results for n=14 particpating student. Poll was conduted on Dec. 7, 2017.
+
+![Live opinion poll results](/img/DDL_UseCase_LiveOpinionPoll.png)
+
+To conclude: Students positively acknowledged the review with its changed presentation style. I will continue with this kind of structure in my lecture.
+
 ## Smart Environments
 
 I am pushing the approach forward and have advanced the concept to create *Smart Environment for Teaching and Learning*. This is a classroom embedding various Internet-of-Things (IoT) technologies and therein connects lecturing and learning activities directy. It perceives the current situation of all attending students and enables immediate feedback and control on breaks, progress and pace of a lecture. We have implemented a smart classroom environment within the [Services Computing Masters program at the HHZ](http://www.hhz.de/master/services-computing/).
