@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SCM IoT Hackathon: New Services for the Smart Enviroment 
+title: SCM IoT Hackathon: New Services for the Smart Environment 
 subtitle: Smart Environments for Teaching and Learning
 share-img: "http://cdeck3r.github.io/img/blog/SCM_IoT_WS17_Hackathon.jpg"
 bigimg:
@@ -16,7 +16,11 @@ bigimg:
 
 In this winter term (Dec 11 and Dec 12, 2017) we conducted an IoT Hackathon as part of the IT Masters program [Services Computing (SCM)](http://www.hhz.de/master/services-computing/). During these short and very intense projects, students proof their understanding of core concepts from my IoT lecture. Check out this short video snippet capturing the hackathon.
 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KdovrUSOsTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 
 ## IoT Concept and Hackathon
 
