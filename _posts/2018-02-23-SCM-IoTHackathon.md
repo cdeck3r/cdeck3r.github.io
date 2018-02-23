@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SCM IoT Hackathon: New Services for the Smart Environment 
+title: SCM IoT Hackathon - New Services for the Smart Environment 
 subtitle: Smart Environments for Teaching and Learning
 share-img: "http://cdeck3r.github.io/img/blog/SCM_IoT_WS17_Hackathon.jpg"
 bigimg:
@@ -14,14 +14,9 @@ bigimg:
   - "/img/blog/SCM_IoT_WS17_Hackathon_bigimg_8.jpg" : "Coffee and Dataflow (2017)"    
 ---
 
-SCM_IoT_WS17_Hackathon_bigimg_1.jpg
-
 In this winter term (Dec 11 and Dec 12, 2017) we conducted an IoT Hackathon as part of the IT Masters program [Services Computing (SCM)](http://www.hhz.de/master/services-computing/). During these short and very intense projects, students proof their understanding of core concepts from my IoT lecture. Check out this short video snippet capturing the hackathon.
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KdovrUSOsTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
 
 ## IoT Concept and Hackathon
 
@@ -49,4 +44,7 @@ Finally, at the end of the two day project work students present their concept a
 * [Alexa coffee machine](https://github.com/GharbiRaouf/hhz_hackathon_alexa_coffee)
 * [Room Information Service](https://github.com/katjanein91/hhz-hackathon-window-sensor/wiki)
 * [Coffee machine rewarding system](https://github.com/Leedwing/msc-iot-coffeemashine-rewarding-system)
+                
+                         
+
 
