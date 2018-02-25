@@ -18,28 +18,28 @@ In this winter term (Dec 11 and Dec 12, 2017) we conducted an IoT Hackathon as p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KdovrUSOsTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## IoT Concept and Hackathon
+## IoT Hackathon Concept
 
-In my IoT lecture I teach the concepts of embedded smart object computers as enabling technology for invisible services. These services naturally assist inhabitants in various activities within a sensor-instrumented environment. During a two-day hackathon students develop such IoT services and embed prototypes in the lecture rooms.
+In my IoT lecture I teach the concepts of embedded smart object computers as enabling technology for invisible IoT services. Within a sensor-instrumented environment these services naturally assist inhabitants in various activities. During a two-day hackathon students develop such IoT services and embed prototypes in the lecture rooms. Each student group documents its activities in a report publicly available on a github code repository. The final report is graded according previously known criteria displaying how well students have understood the concepts from the lecture.
 
 ![SCM IoT Hackathon WS 2017](/img/blog/SCM_IoT_WS17_Hackathon.jpg)
 
-Three groups, each 3 to 4 students, work on their projects. Their application domain is the [Smart Environment](/research/se/) at the HHZ. It is a living lab operating 24/7 and assists students and lecturers throughout the all-day lectures at the HHZ. 
-
 ## IoT Hackathon Projects
 
-Three groups, each 3 to 4 students, work on their projects. Their application domain is the [Smart Environment](/research/se/) at the HHZ. It is a living lab operating 24/7 and assists students and lecturers during lecture days at the HHZ. 
+Three groups, each 3 to 4 students, worked on their projects. Their application domain was the [Smart Environment](/research/se/) at the HHZ. This living lab operates 24/7 and assists students and lecturers during lecture days at the HHZ. The following projects have been implemented:
 
 * *Alexa coffee machine:* The coffee machine represents a spot for spontaneous meetings to talk about the latest technological trends, but also a place for recreation and relaxation. Alexa coffee machine embeds an IoT service seamlessly supporting various activities at this very dynamical spot. 
 * *Room Information Service:* The room reminds you to close the door, to protect the gadgets and personal belongings in the room. Using information from the lecture calendar, it supports the janitor to prepare the room before and after each lecture.
 * *Coffee machine rewarding system:* The coffee machine rewards students when brewing coffee. The embedded invisible IoT service encourages students to make coffee available at all times using a competition like approach. Who will be the next coffee master? 
 
-Finally, at the end of the two day project work students present their concept and prototypes. Each presentation concludes with a short demonstration.
+Finally, at the end of the two day project work students presented their concepts and prototypes. A short prototyp demonstration concluded each presentation.
 
 ![Presentations at the IoT Hackathon WS 2017](/img/blog/SCM_IoT_WS17_Presentations.jpg)
 
 
 ## Further Ressources
+
+Hackathon projects' code and reports are publicly available on github.
 
 * [Alexa coffee machine](https://github.com/GharbiRaouf/hhz_hackathon_alexa_coffee)
 * [Room Information Service](https://github.com/katjanein91/hhz-hackathon-window-sensor/wiki)
