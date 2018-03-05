@@ -16,7 +16,7 @@ I teach the fundamentals, technologies and processes with the field of the Inter
 
 **Goal:** To enable creative teams to innovate, to explore, to experiment with and to validate their IoT ideas beyond the post-its level. Check out the following video presentation from [Team SnapIt](https://github.com/Snapit-HHZ/snapit-hhz/wiki)
 
-tbd: incl. video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oS1_xAFII78" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Developing IoT Apps using the Living Lab Process
 
