@@ -16,14 +16,13 @@ I teach the fundamentals, technologies and processes with the field of the Inter
 
 **Goal:** To enable creative teams to innovate, to explore, to experiment with and to validate their IoT ideas beyond the post-its level. Check out the following video presentation from [Team SnapIt](https://github.com/Snapit-HHZ/snapit-hhz/wiki)
 
-tbd: <video>
+tbd: incl. video
 
 ## Developing IoT Apps using the Living Lab Process
 
 The living lab process structures the activities of innovating an IoT application and its development. It repeats these activities to learn from a prototype and refine it. It iterates through the activities _Co-Creation_, _Exploration_, _Experimentation_, _Evaluation_.
 
 Keys to success are
-
 * the _Exploration_ phase using ubiquitously available technologies, e.g. smartphones, for building mock-up prototypes
 * the _Experimentation_ phase where you should use the mock-up prototype in daily routines close the aimed usage scenario
 
@@ -35,7 +34,7 @@ Both deliver the experiences one can learn from and refine the IoT application. 
 
 **You don't need to be a developer.** The projects and video presentations show how to approach your next IoT product. 
 
-**Do not stop at the post-it level**, but develop a prototype. The living lab process guides a creative team with various competencies to make reasonable, justifiable and traceable decisions.
+**Do not stop at the post-its level**, but develop a prototype. The living lab process guides a creative team with various competencies to make reasonable, justifiable and traceable decisions.
 
 **Do not stop at the demo level**, but embed the mock-up prototype in your daily routines. It transforms your working environment into a living lab. 
 
