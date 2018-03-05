@@ -53,6 +53,9 @@ Results of hackathons conducted in masters programmes SCM and DBM.
 
 ### Digital Business Management (DBM)
 
+* [Summary blog post](/2018-03-05-DBM-IoTHackathon/) about the Living Lab Process for developing IoT Apps (IoT, winter term 2017/18)
+    * Three hackathon projects show how to apply the living lab process to innovate on new IoT applications 
+    * Utilize mock-up prototypes and transform your environment into a living lab
 * [Summary blog post](/2016-12-13-DBM-IoT-Hackathon/) about the IoT Blockchain hackathon (IoT, winter term 2016/17)
     * [IoT and Blockchain](https://github.com/NathalieH392/Blockchain_IoT_HHZ/wiki): Making a car's milage performance more transparent using IoT and blockchain technology.
 
