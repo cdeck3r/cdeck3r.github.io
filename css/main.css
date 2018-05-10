@@ -673,5 +673,5 @@ td.gutter {
     height: 100%;
     z-index: 10;
     background-size: 30%;
-    background: transparent url({/img/playbutton.png}) center center no-repeat;
+    background: transparent url(/img/playbutton.png) center center no-repeat;
 }
