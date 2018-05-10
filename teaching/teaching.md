@@ -15,7 +15,7 @@ Lectures on [Services Computing Master (SCM)](http://www.servicescomputingmaster
 Some of them are held in our [Smart Environment](/research/se/) for data driven lecturing (DDL).
 
 <p><a class="youtube" href="http://youtube.com/watch?v=9d5GgF6wVEI">
-    <img src="/img/blog/HHZ_programmes_yt_preview.jpg" alt="Study programmes @HHZ" />
+    <img src="/img/HHZ_programmes_yt_preview.jpg" alt="Study programmes @HHZ" />
 </a></p>
 
 ## Projects
