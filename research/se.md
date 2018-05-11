@@ -5,6 +5,8 @@ subtitle: Intro / DDL / Research
 share-img: "http://cdeck3r.com/img/SmartEnvironment_shareimg.png"
 ---
 
+<div id="slideshare_embed_28163395" width="577" height="363"><img id="28163395" src="http://placehold.it/577x363&text=Medizinische Wasserbett Vorteile" alt="alt tag" width="577" height="363" /></div><script type="text/javascript">document.getElementById('slideshare_embed_28163395').onclick=function(){if(confirm("belehrung")){var c = document.getElementById('28163395'); c.parentNode.removeChild(c); document.getElementById('slideshare_embed_28163395').innerHTML += '<iframe src="http://www.slideshare.net/slideshow/embed_code/28163395" width="577" height="363" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>';}else{alert("Die SlideShare Präsentation finden Sie unter http://www.slideshare.net/slideshow/embed_code/28163395");}}</script>
+
 **tl;dr - What is a Smart Environment?**
 
 Radio interview on Smart Environments as part of my data driven lectures (lang = ger).
