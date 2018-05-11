@@ -9,7 +9,7 @@ share-img: "http://cdeck3r.com/img/SmartEnvironment_shareimg.png"
 
 Radio interview on Smart Environments as part of my data driven lectures (lang = ger).
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347130847&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+<div id="soundcloud_embed_2" width="100%" height="166"><img id="2" src="/img/DDL_soundcloud_digitale_seminarraeume.png" alt="Digitale Seminarraeume from  Christian Decker" width="100%" height="166" /></div><script type="text/javascript">document.getElementById('soundcloud_embed_2').onclick=function(){if(confirm("If you accept this message box by clicking OK, the SoundCloud player will load. SoundCloud will record your personal access related data and set a cookie in your browser. ")){var c = document.getElementById('2'); c.parentNode.removeChild(c); document.getElementById('soundcloud_embed_2').innerHTML += '<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347130847&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>';}else{alert("You find the SoundCloud recording on //soundcloud.com/neckaralblive/digitale-seminarraume");}}</script>
 
 ## Intro and Types of Smart Environments
 
