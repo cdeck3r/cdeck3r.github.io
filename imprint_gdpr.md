@@ -21,7 +21,7 @@ Danziger Str. 6 <br>
 </P>
 <p> <strong> Contact: </strong> <br>
 Phone: +49 7121 271 4105 <br>
-E-Mail: <a href="mailto:christian.decker@reutlingen-university.de"> christian.decker@reutlingen-university.de </a> </br>
+E-Mail: <a href="mailto:christian.decker@reutlingen-university.de"> christian.decker@reutlingen-university.de </a> <br>
 </P>
 
 <p> <strong> Responsible for content according to § 55 Abs. 2 RStV: </strong> <br>
@@ -137,7 +137,7 @@ Danziger Str. 6<br>
 </p>
 <p><strong>Kontakt:</strong> <br>
 Telefon: +49 7121 271 4105<br>
-E-Mail: <a href="mailto:christian.decker@reutlingen-university.de">christian.decker@reutlingen-university.de</a></br>
+E-Mail: <a href="mailto:christian.decker@reutlingen-university.de">christian.decker@reutlingen-university.de</a><br>
 </p>
 
 <p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
