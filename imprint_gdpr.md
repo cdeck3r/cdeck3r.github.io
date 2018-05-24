@@ -133,9 +133,10 @@ This always presupposes that the third-party providers of this content perceive 
 Created with <a href="https://datenschutz-generator.de">Datenschutz-Generator.de</a> by RA Dr. Thomas Schwenke and translated afterwards with Google Translate.
 
 
+
 ## Impressum
 
-<div class='impressum'><p>Angaben gemäß § 5 TMG</p>
+<p>Angaben gemäß § 5 TMG</p>
 <p>
 Christian Decker <br>
 Herman Hollerith Zentrum (HHZ), Hochschule Reutlingen <br> 
@@ -161,13 +162,15 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.<br>
 </p><br> 
 Website Impressum von <a href="http://www.impressum-generator.de">impressum-generator.de</a>
- </div>
+
  
 ## Datenschutzerklaerung
 
-<div class='datenschutzerklaerung'><h3 id="dsg-general-intro"></h3><p>Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).<br>
+<p>
+Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).<br>
 <br>
-</p><h3 id="dsg-general-controller">Verantwortlicher</h3><p><span class="tsmcontroller">Christian Decker<br>
+</p><h3 id="dsg-general-controller">Verantwortlicher</h3>
+<p><span class="tsmcontroller">Christian Decker<br>
 Herman Hollerith Zentrum (HHZ), Hochschule Reutlingen <br> 
 Danziger Str. 6<br>
 71034 Boeblingen<br>
