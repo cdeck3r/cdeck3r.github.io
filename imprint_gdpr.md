@@ -131,7 +131,7 @@ This always presupposes that the third-party providers of this content perceive 
 <span class = "ts-muster-content"> Within our online offering, features and content of the LinkedIn service offered by inkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Ireland, may be incorporated. For this, e.g. Content such as images, videos, or text and buttons that allow users to share content from this online offering within LinkedIn. If the users are members of the platform LinkedIn, LinkedIn can call the o.g. Assign contents and functions to the profiles of the users there. LinkedIn privacy statement: <a target="_blank" href="https://www.linkedin.com/legal/privacy-policy"> https://www.linkedin.com/legal/privacy-policy.</a >. LinkedIn is certified under the Privacy Shield Agreement, which provides a guarantee to comply with European privacy legislation (<a target = "_ blank" href = "https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&amp;status=Active "> https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&amp;status=Active code). Privacy Policy: <a target="_blank" href="https://www.linkedin.com/legal/privacy-policy"> https://www.linkedin.com/legal/privacy-policy </a>, Opt -out: <a target="_blank" href="https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out"> https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out </a>. 
 <br><br>
 <a href="https://datenschutz-generator.de" class="dsg1-5" rel="nofollow" target=_blank>Created with Datenschutz-Generator.de by RA Dr. Thomas Schwenke and translated afterwards with Google Translate.</a>
-
+  </div>
 
 ## Impressum
 
@@ -161,7 +161,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.<br>
 </p><br> 
 Website Impressum von <a href="http://www.impressum-generator.de">impressum-generator.de</a>
- </div>
+ </div><p>&nbsp;</p>
 
 ## Datenschutzerklaerung
 
