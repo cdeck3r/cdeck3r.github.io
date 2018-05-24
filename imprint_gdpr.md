@@ -132,4 +132,17 @@ This always presupposes that the third-party providers of this content perceive 
 <br><br>
 Created with <a href="https://datenschutz-generator.de">Datenschutz-Generator.de</a> by RA Dr. Thomas Schwenke and translated afterwards with Google Translate.
 
+## Impressum
 
+<div class='impressum'><p>Angaben gemäß § 5 TMG</p>
+<p>
+Christian Decker <br>
+Herman Hollerith Zentrum (HHZ), Hochschule Reutlingen <br> 
+Danziger Str. 6<br> 
+71034 Boeblingen <br> 
+</p>
+<p><strong>Kontakt:</strong> <br>
+Telefon: +49 7121 271 4105<br>
+E-Mail: <a href="mailto:christian.decker@reutlingen-university.de">christian.decker@reutlingen-university.de</a><br>
+</p>
+</div>
