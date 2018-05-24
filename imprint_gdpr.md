@@ -133,6 +133,7 @@ This always presupposes that the third-party providers of this content perceive 
 <br><br>
 Created with <a href="https://datenschutz-generator.de">Datenschutz-Generator.de</a> by RA Dr. Thomas Schwenke and translated afterwards with Google Translate.
 
+</span></span></span></span></p></span></div>
 
 ## Impressum
 
