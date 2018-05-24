@@ -4,8 +4,8 @@ title: Imprint & GDPR
 ---
 
 <div class="list-filters">
-  <a href="#imprint" class="list-filter filter-selected">Imprint</a>
-  <a href="#impressum" class="list-filter filter-selected">Impressum</a>
+  <a href="#imprint" class="list-filter">Imprint</a>
+  <a href="#impressum" class="list-filter">Impressum</a>
   <a href="#datenschutzerklaerung" class="list-filter">Datenschutzerklaerung</a>
   <a href="#gdpr" class="list-filter">GDPR</a>
 </div>
