@@ -134,7 +134,7 @@ Created with <a href="https://datenschutz-generator.de">Datenschutz-Generator.de
 
 ## Impressum
 
-<div class='impressum'><p>Angaben gemäß § 5 TMG</p>
+<p><div class='impressum'><p>Angaben gemäß § 5 TMG</p>
 <p>
 Christian Decker <br>
 Herman Hollerith Zentrum (HHZ), Hochschule Reutlingen <br> 
