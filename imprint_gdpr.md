@@ -56,8 +56,8 @@ Danziger Str. 6 <br>
 <br>
 E-Mail: <a href="mailto:christian.decker@reutlingen-university.de"> christian.decker@reutlingen-university.de </a> <br>
 <br>
-Imprint: <a href="/imprint_gdpr"> cdeck3r.com/imprint_gdpr </a> <br>
-</span> </p> <h3 id = "dsg-general-datatype"> Types of data processed: </h3> <p> - Inventory data (e.g., names, addresses). <br>
+Imprint: <a href="/imprint_gdpr">cdeck3r.com/imprint_gdpr</a> <br></span>
+<h3 id = "dsg-general-datatype"> Types of data processed: </h3> <p> - Inventory data (e.g., names, addresses). <br>
 - contact information (e.g., email, phone numbers). <br>
 - content data (e.g., text input, photographs, videos). <br>
 - usage data (e.g., websites visited, interest in content, access times). <br>
