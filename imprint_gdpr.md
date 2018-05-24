@@ -12,19 +12,19 @@ title: Imprint & GDPR
 
 ## Imprint
 
-<div class = 'imprint'> <p> Information according to § 5 TMG </ p>
+<div class = 'imprint'> <p> Information according to § 5 TMG </p>
 <P>
 Christian Decker <br>
 Herman Hollerith Zentrum (HHZ), Reutlingen University <br>
 Danziger Str. 6 <br>
 71034 Boeblingen
-</ P>
-<p> <strong> Contact: </ strong> <br>
+</P>
+<p> <strong> Contact: </strong> <br>
 Phone: +49 7121 271 4105 <br>
 E-Mail: <a href="mailto:christian.decker@reutlingen-university.de"> christian.decker@reutlingen-university.de </a> </ br>
 </P>
 
-<p> <strong> Responsible for content according to § 55 Abs. 2 RStV: </ strong> <br>
+<p> <strong> Responsible for content according to § 55 Abs. 2 RStV: </strong> <br>
 Christian Decker <br>
 Danziger Str. 6 <br>
 71034 Boeblingen
