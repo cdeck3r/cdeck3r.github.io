@@ -65,8 +65,9 @@ Imprint: <a href="/imprint_gdpr">cdeck3r.com/imprint_gdpr</a> <br></span>
 </p> <h3 id = "dsg-general-datasubjects"> Affected Person Categories </h3> <p> Visitors and Users of the Online Offering (In the following, we collectively refer to the Affected Persons as "Users")
 </p> <h3 id = "dsg-general-purpose"> Purpose of Processing </h3> <p> - Providing the online offering, its features and content. <br>
 - Answering contact requests and communicating with users. <br>
-- Safety measures <br>.
-- Audience measurement / Marketing |
+- Safety measures <br>
+- Audience measurement / Marketing <br>
+  
 <span class = "tsmcom"> </span> </p> <h3 id = "dsg-general-terms"> Terms Used </h3> <p> "Personal Information" is any information that identifies itself to an identified person or identifiable natural person (hereinafter referred to as "affected person"); a natural person is considered as identifiable, which can be identified directly or indirectly, in particular by means of assignment to an identifier such as a name, to an identification number, to location data, to an online identifier (eg cookie) or to one or more special features, are the expression of the physical, physiological, genetic, mental, economic, cultural or social identity of this natural person
 <br>
 "Processing" means any process performed with or without the aid of automated procedures or any such process associated with personal data. The term covers a wide range and covers practically every handling of data. <br>
