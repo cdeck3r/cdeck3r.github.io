@@ -58,7 +58,7 @@ This project investigates how a device-free interfaces in the Smart Home may sup
 
 [Project wiki](https://iot-hackathon.gitbook.io/project/)
 
-## Hackathon as part of HHZ Research Method
+## Hackathon as part of the HHZ Research Method
 
 At the HHZ these hackathons are part of the process to cooperate with partners from the industry on challenging reasearch questions. Hackathons help us to justify whether an initial idea is worth to be followed up or put back in favor for an other solution concepts. This implements a risk management approach and increases certainty for our partners to move towards a successful realization.
 
