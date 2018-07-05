@@ -14,16 +14,16 @@ bigimg:
 
 ---
 
-Students of the IT Masters program [Services Computing (SCM)](http://www.hhz.de/master/services-computing/) learn how the Internet of Things (IoT) will enable new digital services at home, for recreation, while shopping and for many more activities. Hackathons provide a great instrument to apply learnt scientific know-how and experience individually and directly how newly created digital environments will behave. 
+Students of the IT Masters program [Services Computing (SCM)](http://www.hhz.de/master/services-computing/) learn how the Internet of Things (IoT) will enable new digital services at home, for recreation, while shopping and for many more activities. Hackathons provide a great instrument to apply learnt scientific know-how. As a result, students experience individually and directly how newly created digital environments will behave. 
 
-The following video shows one projects how IoT technology could retrofit the home devices and will enable new digital services.
+The following video shows a hackathon project where IoT technology retrofits home devices and will enable new digital services.
 
 <div id="yt_embed_1" width="560" height="315"><img id="1" src="/img/blog/SCM_IoT_SS18_Hackathon_yt_preview.jpg" alt="Fridge Retrofitting, SCM Hackathon project @HHZ" width="560" height="315" /></div><script type="text/javascript">document.getElementById('yt_embed_1').onclick=function(){if(confirm("If you accept this message box by clicking OK, the Youtube video will load. Youtube will record your personal access related data and set a cookie in your browser. ")){var c = document.getElementById('1'); c.parentNode.removeChild(c); document.getElementById('yt_embed_1').innerHTML += '<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y-nbPS77fcs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>';}else{alert("You find the video on //youtu.be/Y-nbPS77fcs");}}</script>
 
 
 ## Hackathon Projects
 
-*Hackathon's objective:* Students shall systematically research how IoT technology will support mundane daily activities in the upcoming Smart Home and Smart Shop environments.
+> **Hackathon's objective:** Students shall systematically research how IoT technology will support mundane daily activities in the upcoming Smart Home and Smart Shop environments.
 
 During the 2-day hackathon the SCM students work on various projects. The following list provides a short overview. All projects have a comprehensive documentation on Github.
 
@@ -62,7 +62,7 @@ This project investigates how a device-free interfaces in the Smart Home may sup
 
 At the HHZ these hackathons are part of the process to cooperate with partners from the industry on challenging reasearch questions. Hackathons help us to justify whether an initial idea is worth to be followed up or put back in favor for an other solution concepts. This implements a risk management approach and increases certainty for our partners to move towards a successful realization.
 
-This method allows us to try out blue-sky, even exotic, ideas while controlling the project's progress and not being afraid of bringing the project at at an inevitable risk.
+This method allows us to try out blue-sky, even exotic, ideas while controlling the project's progress and not being afraid of bringing the project at an inevitable risk.
 
 ## Resources
 
