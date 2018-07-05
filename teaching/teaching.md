@@ -35,6 +35,10 @@ Results of hackathons conducted in masters programmes SCM and DBM.
 
 ### Services Computing (SCM)
 
+* [Summary blog post](/2018-07-05-SCM-IoTHackathon/) about IoT across various Digital Areas of Life (IoT, summer term 2018)
+    * Five projects illustrate how IoT spans across Smart Home and Smart Shop 
+    * Demonstrators allow us to justify activities in ongoing research projects
+
 * [Summary blog post](/2018-02-23-SCM-IoTHackathon/) about Smart Environments hackathon (IoT, winter term 2017/18)
     * Three projects add new IoT services to the Smart Environments 
     * Alexa and wireless sensors enable embedded services seamlessly support students' actitivies
