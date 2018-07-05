@@ -62,7 +62,7 @@ This project investigates how a device-free interfaces in the Smart Home may sup
 
 At the HHZ these hackathons are part of the process to cooperate with partners from the industry on challenging reasearch questions. Hackathons help us to justify whether an initial idea is worth to be followed up or put back in favor for an other solution concepts. This implements a risk management approach and increases certainty for our partners to move towards a successful realization.
 
-This method allows to try out blue-sky even exotic ideas, while controlling the project's progress and not being afraid of risking the success of the project.
+This method allows us to try out blue-sky, even exotic, ideas while controlling the project's progress and not being afraid of bringing the project at at an inevitable risk.
 
 ## Resources
 
