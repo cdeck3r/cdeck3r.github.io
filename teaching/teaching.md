@@ -44,8 +44,8 @@ Results of hackathons conducted in masters programmes SCM and DBM.
     * Alexa and wireless sensors enable embedded services seamlessly support students' actitivies
     
 * [Summary blog post](/2017-06-13-SCM-IoTHackathon/) about Smart Environments hackathon (IoT, summer term 2017)
-    * Five projects for building Smart Environments to various teaching and learning activities
-    * Utilizes the sensor devices from the last hackathon for a sensor instrumented room
+    * Five projects for building Smart Environments to support various teaching and learning activities
+    * Utilizing the sensor devices from the last hackathon on a sensor instrumented room
 
 * [Summary blog post](/2017-01-18-SCM-IoTHackathon/) about hackathon projects (IoT, winter term 2016/17)
     * Beacons: Investigate BLE beacon applications to support students and lectures at the HHZ
