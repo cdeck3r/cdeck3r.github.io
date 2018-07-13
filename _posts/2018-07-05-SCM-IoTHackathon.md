@@ -54,7 +54,7 @@ Smart Checkout operates in retailer's Smart Shop environment. A lot of customers
 
 ### Alexa Shopping List
 
-This project investigates how a device-free interfaces in the Smart Home may support the Smart Shopping activities. Amazon's Echo device with its Alexa speech service enables a user to create a shopping list without an extra device such a smartphone. The system is a prototype demonstration how retailers can embed their own service residing in a user's Smart Home. Hence, it extends the typical domain of a retail store and let the shopping experience start at the a customer's home.
+This project investigates how a device-free interfaces in the Smart Home may support the Smart Shopping activities. Amazon's Echo device with its Alexa speech service enables a user to create a shopping list without an extra device such as a smartphone. The system is a prototype demonstration how retailers can embed their own service residing in a user's Smart Home. It expands the typical domain of a retail store and let the shopping experience start in the customer's home.
 
 [Project wiki](https://iot-hackathon.gitbook.io/project/)
 
