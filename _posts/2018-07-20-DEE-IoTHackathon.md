@@ -5,12 +5,12 @@ subtitle: Distributed Economy and IoT Hackathon Summer 2018
 share-img: "http://cdeck3r.github.io/img/blog/DEE_IoT_SS18_Hackathon.jpg"
 bigimg:
   - "/img/blog/DEE_IoT_SS18_Hackathon_bigimg1.jpg" : "Students from both departments discussion the solution (2018)"
-  - "/img/blog/DEE_IoT_SS18_Hackathon_bigimg2.png" : "Review and understanding of the load simulation (2018)"
+  - "/img/blog/DEE_IoT_SS18_Hackathon_bigimg2.jpg" : "Review and understanding of the load simulation (2018)"
   - "/img/blog/DEE_IoT_SS18_Hackathon_bigimg3.jpg" : "Statistics on blockchain's operation (2018)"
   - "/img/blog/DEE_IoT_SS18_Hackathon_bigimg4.jpg" : "The blockchain operates  properly (2018)"
   - "/img/blog/DEE_IoT_SS18_Hackathon_bigimg5.jpg" : "Whiteboard modelling and design (2018)"
   - "/img/blog/DEE_IoT_SS18_Hackathon_bigimg6.jpg" : "Pen, paper, food, drinks for a better discussion (2018)"
-  - "/img/blog/DEE_IoT_SS18_Hackathon_bigimg7.png" : "Presenting the development activities (2018)"
+  - "/img/blog/DEE_IoT_SS18_Hackathon_bigimg7.jpg" : "Presenting the development activities (2018)"
 
 ---
 
