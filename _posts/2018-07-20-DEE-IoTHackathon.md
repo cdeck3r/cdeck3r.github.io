@@ -47,12 +47,12 @@ First, they attended the lecture on Distributed Energy Economy given by Prof. Co
 
 The basic setting provided simulated loads by a photovoltaic system, battery, combined heat and power unit. Raspberry Pi embedded computers made up the IoT part for building a device network executing smart contracts between the network participants. 
 
-The students split into two teams. In both teams were computer science students as well as electrical engineering students. Using UML modelling diagrams they were quickly able to achieve a common understanding on their envisioned prototype design.
+The students were split into two teams. In both teams computer science students as well as electrical engineering students took part. Using UML modelling diagrams they were quickly able to achieve a common understanding on their envisioned prototype design.
 
 The teams came up with different solutions concepts:
 
-* P2P transactions between the network participants using a single smart contract. Basically, it works like a market place.
-* A single smart contracts for each network participant. In this concept, several smart contracts interact with each other.
+* P2P transactions between the network participants using a single smart contract. It basically works like a market place.
+* A single smart contracts for each network participant. In this concept several smart contracts interact with each other.
 
 ![Students working in the hackathon](/img/blog/DEE_IoT_SS18_Hackathon_students.jpg)
 
