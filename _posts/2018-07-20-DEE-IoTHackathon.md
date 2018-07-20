@@ -22,7 +22,7 @@ We brought together our computer science students from the masters programme Ser
 
 [Prof. Coll-Mayor](https://www.tec.reutlingen-university.de/fakultaet/personen/professoren/#debora-coll-mayor) and [Prof. NMotholt](https://www.tec.reutlingen-university.de/fakultaet/personen/professoren/#antonio-notholt) research energy microgrids. Therein, energy consumers and producers relate their energy haves and needs with each other. Running such a grid without a central authority provides an valuable mode of operation, where participants execute transactions in a P2P manner. 
 
-My research focus is the Internet of Things (IoT). Primarily, in the Internet of Things (IoT), Smart Data Services become business relevant first-class resources and enable new business models. As a result, Data Products emerge where products and services embodying data intelligence provide novel value propositions to the user.
+[My research focus](/research) is the Internet of Things (IoT). Primarily, in the Internet of Things (IoT), Smart Data Services become business relevant first-class resources and enable new business models. As a result, Data Products emerge where products and services embodying data intelligence provide novel value propositions to the user.
 
 ## Motivation and Goal
 
