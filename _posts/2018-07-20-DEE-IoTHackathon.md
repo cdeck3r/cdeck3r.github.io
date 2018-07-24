@@ -27,7 +27,7 @@ We brought together our computer science students from the masters programme Ser
 
 ## Motivation and Goal
 
-Enabling energy producers and consumers to act locally with each other in a microgrid utilizing software services running directly on inter-connected things or devices, we are able transform physical resources into first-class business objects. 
+By enabling energy producers and consumers to act locally with each other in a microgrid utilizing smart software services running directly on inter-connected things or devices, we are able transform physical resources into first-class business objects. 
 
 We believe novel applications will stem from this approach and we want to establish a [laboratory environment](https://dlt-lab.reutlingen-university.de) at the Reutlingen University to study and develop these applications.
 
