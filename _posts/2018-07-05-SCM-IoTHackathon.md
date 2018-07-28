@@ -14,7 +14,7 @@ bigimg:
 
 ---
 
-Students of the IT Masters program [Services Computing (SCM)](http://www.hhz.de/master/services-computing/) learn how the Internet of Things (IoT) will enable new digital services at home, for recreation, while shopping and for many more activities. Hackathons provide a great instrument to apply learnt scientific know-how. As a result, students experience individually and directly how newly created digital environments will behave. 
+Students of the IT Master program [Services Computing (SCM)](http://www.hhz.de/master/services-computing/) learn how the Internet of Things (IoT) will enable new digital services at home, for recreation, while shopping and for many more activities. Hackathons provide a great instrument to apply learnt scientific know-how. As a result, students experience individually and directly how newly created digital environments will behave. 
 
 The following video shows a hackathon project where IoT technology retrofits home devices and will enable new digital services.
 
