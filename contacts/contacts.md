@@ -157,17 +157,5 @@ title: Contacts
 	  </li>
   {% endif %}
 </ul>
-<p class="copyright text-muted">
-	  <a href="{{ site.imprint-url }}">Imprint &amp; GDPR </a>
-	  &nbsp;&bull;&nbsp;
-	  {{ site.author.name }}
-	  &nbsp;&bull;&nbsp;
-	  {{ site.time | date: '%Y' }}
-
-	  {% if site.url-pretty %}
-	  &nbsp;&bull;&nbsp;
-	  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-	  {% endif %}
-    </p>
 </div>
 </div>
