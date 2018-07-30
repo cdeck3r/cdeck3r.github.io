@@ -54,6 +54,7 @@ author:
   youtube: channel/UCZ5wNVV_E6AA3L3C-mvqwSA   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
+  vcf: /cdeck3r.vcf
 
 # Select which links to show in the footer
 footer-links-active:
@@ -69,7 +70,7 @@ footer-links-active:
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: false
+  youtube: true
   spotify: false
   telephone: false
 
@@ -80,7 +81,6 @@ share-links-active:
   google: true
   linkedin: true
   xing: true
-  youtube: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
