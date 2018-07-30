@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Contacts
+title: Get in Touch
+subtitle: vCard and Social Media Contacts
 ---
 
 <div class="row">
