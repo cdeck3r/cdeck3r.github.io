@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: Get in Touch
 subtitle: vCard and Social Media Contacts
 ---
