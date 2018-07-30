@@ -16,6 +16,7 @@ title: Contacts
     </a>
   </li>
   {% endif %}
+<!--
   {% if site.author.github and site.footer-links-active.github %}
   <li>
     <a href="https://github.com/{{ site.author.github }}" title="GitHub">
@@ -26,7 +27,28 @@ title: Contacts
     </a>
   </li>
   {% endif %}
-	  {% if site.author.twitter and site.footer-links-active.twitter %}
+-->
+  {% if site.author.linkedin and site.footer-links-active.linkedin %}
+  <li>
+    <a href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn">
+      <span class="fa-stack fa-lg">
+	<i class="fa fa-circle fa-stack-2x"></i>
+	<i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+  {% if site.author.xing and site.footer-links-active.xing %}
+  <li>
+    <a href="https://www.xing.com/profile/{{ site.author.xing }}" title="Xing">
+      <span class="fa-stack fa-lg">
+	<i class="fa fa-circle fa-stack-2x"></i>
+	<i class="fa fa-xing fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+  {% if site.author.twitter and site.footer-links-active.twitter %}
   <li>
     <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
       <span class="fa-stack fa-lg">
@@ -56,7 +78,7 @@ title: Contacts
     </a>
   </li>
   {% endif %}
-	  {% if site.author.email and site.footer-links-active.email %}
+  {% if site.author.email and site.footer-links-active.email %}
   <li>
     <a href="mailto:{{ site.author.email }}" title="Email me">
       <span class="fa-stack fa-lg">
@@ -66,27 +88,7 @@ title: Contacts
     </a>
   </li>
   {% endif %}
-	  {% if site.author.linkedin and site.footer-links-active.linkedin %}
-  <li>
-    <a href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn">
-      <span class="fa-stack fa-lg">
-	<i class="fa fa-circle fa-stack-2x"></i>
-	<i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  {% endif %}
-	  {% if site.author.xing and site.footer-links-active.xing %}
-  <li>
-    <a href="https://www.xing.com/profile/{{ site.author.xing }}" title="Xing">
-      <span class="fa-stack fa-lg">
-	<i class="fa fa-circle fa-stack-2x"></i>
-	<i class="fa fa-xing fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  {% endif %}
-	  {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
+  {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
   <li>
     <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="StackOverflow">
       <span class="fa-stack fa-lg">
@@ -146,8 +148,9 @@ title: Contacts
     </a>
   </li>
 {% endif %}
-	  {% if site.footer-links-active.rss %}
-	  <li>
+<!--
+{% if site.footer-links-active.rss %}
+  <li>
 		<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
 		  <span class="fa-stack fa-lg">
 			<i class="fa fa-circle fa-stack-2x"></i>
@@ -156,6 +159,7 @@ title: Contacts
 		</a>
 	  </li>
   {% endif %}
+-->
 </ul>
 </div>
 </div>
