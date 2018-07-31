@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pageftloose
 title: Get in Touch
 subtitle: vCard and Social Media Contacts
 ---
