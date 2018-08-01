@@ -35,6 +35,10 @@ Results of hackathons conducted in masters programmes SCM and DBM.
 
 ### Services Computing (SCM)
 
+* [Summary blog post](/2018-07-20-DEE-IoTHackathon/) about the cross-educational hackathon on blockchain enabled energy microgrids together with the electrical engineering department (DEE & IoT, summer term 2018)
+    * Blockchain enabled P2P transactions within an energy microgrid 
+    * Step to to establish a blockchain laboratory environment at the Reutlingen University to study and develop applications
+
 * [Summary blog post](/2018-07-05-SCM-IoTHackathon/) about the hackathon on IoT across various Digital Areas of Life (IoT, summer term 2018)
     * Five projects illustrate how IoT spans across Smart Home and Smart Shop 
     * Demonstrators allow us to justify activities in ongoing research projects
