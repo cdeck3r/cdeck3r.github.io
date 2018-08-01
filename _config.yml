@@ -54,7 +54,7 @@ author:
   youtube: channel/UCZ5wNVV_E6AA3L3C-mvqwSA   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
-  vcf: /contacts/cdeck3r.vcf
+  vcf: /contact/cdeck3r.vcf
 
 # Select which links to show in the footer
 footer-links-active:
