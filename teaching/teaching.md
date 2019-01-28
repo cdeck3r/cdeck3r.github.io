@@ -62,6 +62,9 @@ Results of hackathons conducted in masters programmes SCM and DBM.
 
 ### Digital Business Management (DBM)
 
+* [Summary blog post](/2018-07-30-DBM-IoTHackathon/) Iterating trhough the Living Lab Process for developing IoT Apps (IoT, summer term 2018)
+    * The hackathon project demonstrates the development of Rubi the Brewbot utilizing the living lab process 
+    * Focus is on hypothesis driven experimentation and evaluation when iterating through the process
 * [Summary blog post](/2018-03-05-DBM-IoTHackathon/) about the Living Lab Process for developing IoT Apps (IoT, winter term 2017/18)
     * Three hackathon projects show how to apply the living lab process to innovate on new IoT applications 
     * Utilize mock-up prototypes and transform your environment into a living lab
