@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iterating the IoT Living Lab Process 
-subtitle: DBM Hackathon Project Summ 2018
+subtitle: DBM Hackathon Project Summer 2018
 share-img: "http://cdeck3r.github.io/img/blog/DBM_IoT_SS18_Hackathon.jpg"
 bigimg:
   - "/img/blog/DBM_IoT_SS18_Hackathon_bigimg_1.jpg" : "Brewbot Cup (2018)"
