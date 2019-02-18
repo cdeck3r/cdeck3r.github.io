@@ -49,7 +49,7 @@ All hackathon projects organize themselves around the living lab process. This p
 
 |    | DBM Projects  | SCM Projects  |
 | -- | ------------- | ------------- | 
-| Research questions | How can IoT improve or create novel digital services? How can we systematically approach such ideas and identify value and benefit before it is actually built? | How does a novel IoT service behave end-to-end and is the envisioned benefit for the user |
+| Research questions | How can IoT improve or create novel digital services? How can we systematically approach such ideas and identify value and benefit before it is actually built? | How does a novel IoT service behave end-to-end in the real world? Is the envisioned benefit achieved for the user? |
 | Activity | Work along the living lab process and study appropriate IoT concepts | Create and study the living lab IoT service implementations |
 | Results | validated IoT service ideas | IoT service implementations operating 24/7 in the living lab |
 
