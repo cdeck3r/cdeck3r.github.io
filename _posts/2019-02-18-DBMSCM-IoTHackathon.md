@@ -79,6 +79,6 @@ These are project documentation wikis of the [Services Computing](http://www.hhz
 
 These are project documentation wikis of the (DBM)](http://www.hhz.de/master/digital-business-management/) students demonstrating the concept of embedding. They work along the living lab process.
 
-* [9to5][https://github.com/kati16/9to5connect/wiki/Introduction] illustrates how IoT concepts may form IoT services for typical meeting activities
+* [9to5connect](https://github.com/kati16/9to5connect/wiki/Introduction) illustrates how IoT concepts may form IoT services for typical meeting activities
 * [JustSmile](https://bitbucket.org/tschraegl/iot_justsmile/wiki/Home) let's you apply natural expressive feedback when doing routines tasks
 * [Apiano](https://github.com/karemi/Piano/wiki) combine seamlessly payment and feedback in a restaurant
