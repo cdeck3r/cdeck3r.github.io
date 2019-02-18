@@ -11,12 +11,16 @@ Radio interview on Smart Environments as part of my data driven lectures (lang =
 
 <div id="soundcloud_embed_2" width="100%" height="166"><img id="2" src="/img/DDL_soundcloud_digitale_seminarraeume.png" alt="Digitale Seminarraeume from  Christian Decker" width="100%" height="166" /></div><script type="text/javascript">document.getElementById('soundcloud_embed_2').onclick=function(){if(confirm("If you accept this message box by clicking OK, the SoundCloud player will load. SoundCloud will record your personal access related data and set a cookie in your browser. ")){var c = document.getElementById('2'); c.parentNode.removeChild(c); document.getElementById('soundcloud_embed_2').innerHTML += '<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347130847&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>';}else{alert("You find the SoundCloud recording on //soundcloud.com/neckaralblive/digitale-seminarraume");}}</script>
 
-## Intro and Types of Smart Environments
+## Introduction
 
 A smart environment is a sensor and actuator instrumented room or space. Embedded networked computer systems make the room perceive physical state and activties within. In a smart environment user routines and information processes may seamlessly interact with each other.
 
 At the HHZ, we have implemented a smart environment to support [Data Driven Lectures (DDL)](/teaching/ddl). 
 The installation runs 24/7 and supports students as well as lectures in learning and teaching activities. 
+
+You may want to view some selected data from the Smart Environment on [digital.hhz.de](http://digital.hhz.de).
+
+## Types of Smart Environments
 
 Bascially, we distinguish between three stages of extension for smart environments.
 
@@ -43,6 +47,8 @@ through the use internet technology. A classroom embedding various Internet-of-T
 * Sensors: 
     * Temperature/Humidity sensor: DHT11
     * CO2 sensor: MQ135
+
+The website [digital.hhz.de](http://digital.hhz.de) displays some selected sensor data from the Smart Environment.
 
 ## Research and Recent Activities
 
