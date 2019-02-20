@@ -20,7 +20,7 @@ bigimg:
   - "/img/blog/DBMSCM_IoT_WS18_Hackathon_bigimg_14.jpg" : "DBM and SCM Hackathon (2019)"
 ---
 
-Regular readers of this blog have probably noted that I organize Internet of Things (IoT) hackathons for two masters programs - [Digital Business Management (DBM)](http://www.hhz.de/master/digital-business-management/) and [Services Computing](http://www.hhz.de/master/services-computing/). 
+Regular readers of this blog have probably noted that I organize Internet of Things (IoT) hackathons for two masters programs - [Digital Business Management (DBM)](http://www.hhz.de/master/digital-business-management/) and [Services Computing (SCM)](http://www.hhz.de/master/services-computing/). 
 
 The DBM hackathon is more focussed on demonstrating abstracts IoT concepts, while the SCM hackathon emphasizes the IoT engineering principles. This winter term both hackathons took place in conjunction, where this distingusihing property can be clearly observed. The teams presented their results on January 29, 2019.
 
