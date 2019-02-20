@@ -35,6 +35,10 @@ Results of hackathons conducted in masters programmes SCM and DBM.
 
 ### Services Computing (SCM)
 
+* [Summary blog post](/2019-02-18-DBMSCM-IoTHackathon/) about the IoT hackathon on novel IoT services for improving teaching and learning within the [Smart Environment](/research/se/) (IoT, winter term 2018/19)
+    * Five projects of end-2-end engineered prototypes
+    * IoT service implementations operating 24/7 in the Smart Environment
+
 * [Summary blog post](/2018-07-20-DEE-IoTHackathon/) about the cross-educational hackathon on blockchain enabled energy microgrids together with the electrical engineering department (DEE & IoT, summer term 2018)
     * Blockchain enabled P2P transactions within an energy microgrid 
     * Step to to establish a blockchain laboratory environment at the Reutlingen University to study and develop applications
@@ -62,7 +66,11 @@ Results of hackathons conducted in masters programmes SCM and DBM.
 
 ### Digital Business Management (DBM)
 
-* [Summary blog post](/2018-07-30-DBM-IoTHackathon/) Iterating trhough the Living Lab Process for developing IoT Apps (IoT, summer term 2018)
+* [Summary blog post](/2019-02-18-DBMSCM-IoTHackathon/) about the IoT hackathon on the IoT concept of embedding, where real-world activities are electronically sensed and seamlessly update electronic information systems (IoT, winter term 2018/19)
+    * Three projects demonstrate the concept of embedding
+    * Students work along the living lab process
+
+* [Summary blog post](/2018-07-30-DBM-IoTHackathon/) Iterating the Living Lab Process for developing IoT Apps (IoT, summer term 2018)
     * The hackathon project demonstrates the development of Rubi the Brewbot utilizing the living lab process 
     * Focus is on hypothesis driven experimentation and evaluation when iterating through the process
 * [Summary blog post](/2018-03-05-DBM-IoTHackathon/) about the Living Lab Process for developing IoT Apps (IoT, winter term 2017/18)
