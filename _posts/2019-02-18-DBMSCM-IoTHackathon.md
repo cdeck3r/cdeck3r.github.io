@@ -34,7 +34,7 @@ The DBM hackathon is more focussed on demonstrating abstracts IoT concepts, whil
 
 ## What is common? 
 
-Both programs educate students on master's level. Each group attends its program's specific IoT lecture before they proceed with their hackathon project. The IoT lecture teaches and exercises fundamental IoT concept, design principles as well as technologies. Overall, both programms cover the digital business and transformation.
+Both programs educate students on master's level. Students attend their program specific IoT lecture before they proceed with their hackathon project. The IoT lecture teaches and exercises fundamental IoT concepts, design principles as well as technologies. Overall, both programms cover the IoT based digital business and transformation.
 
 ## What is different?
 
