@@ -35,6 +35,10 @@ Results of hackathons conducted in masters programmes SCM and DBM.
 
 ### Services Computing (SCM)
 
+* [Summary blog post](/2019-08-13-SCM-IoTHackathon/) about the IoT hackathon on bridging the gap to demonstrate the IoT economic principle (IoT, summer term 2019)
+    * Parking management for shopping carts
+    * Equipment rental service
+
 * [Summary blog post](/2019-02-18-DBMSCM-IoTHackathon/) about the IoT hackathon on novel IoT services for improving teaching and learning within the [Smart Environment](/research/se/) (IoT, winter term 2018/19)
     * Five projects of end-2-end engineered prototypes
     * IoT service implementations operating 24/7 in the Smart Environment
