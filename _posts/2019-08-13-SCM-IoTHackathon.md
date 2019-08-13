@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: The IoT Economic Principle
 subtitle: SCM Hackathon Projects Summer 2019
 share-img: "http://cdeck3r.github.io/img/blog/SCM_IoT_SS19_Hackathon.jpg"
 bigimg:
