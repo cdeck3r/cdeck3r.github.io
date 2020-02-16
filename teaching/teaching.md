@@ -11,12 +11,8 @@ title: Teaching
 
 ## Masters Programmes @HHZ
 
-Lectures on [Services Computing Master (SCM)](http://www.servicescomputingmaster.de/) and [Digital Business Management (DBM)](http://www.digitalbusinessmaster.de/) take place every term at the HHZ. 
+Lectures on [Digital Business Engineering (DBE)](https://www.hhz.de/master/digital-business-engineering/) and [Digital Business Management (DBM)](http://www.digitalbusinessmaster.de/) take place every term at the HHZ. 
 Some of them are held in our [Smart Environment](/research/se/) for data driven lecturing (DDL).
-
-<p><a class="youtube" href="http://youtube.com/watch?v=9d5GgF6wVEI">
-    <img src="/img/HHZ_programmes_yt_preview.jpg" alt="Study programmes @HHZ" />
-</a></p>
 
 ## Projects
 Term or two-term projects conducted by students.
@@ -33,7 +29,15 @@ Term or two-term projects conducted by students.
 ## Hackathons
 Results of hackathons conducted in masters programmes SCM and DBM.
 
+### Digital Business Engineering (DBE)
+
+* [Summary blog post](http://cdeck3r.com/2020-02-16-DBE-IoTHackathon/) about the IoT hackathon projects on "Embedded Digital Services in Everyday Routines" (IoT, winter term 2018/19)
+    * Five projects on a broad range of ideas 
+    * Project reports and Minimum Viable Products (MVP) implementations available  
+
 ### Services Computing (SCM)
+
+Starting from the winter term 2019 the masters program on Services Computing stopped accepting new applications. It continues as  revised program [Digital Business Engineering (DBE)](https://www.hhz.de/master/digital-business-engineering/).       
 
 * [Summary blog post](/2019-08-13-SCM-IoTHackathon/) about the IoT hackathon on bridging the gap to demonstrate the IoT economic principle (IoT, summer term 2019)
     * Parking management for shopping carts
@@ -45,7 +49,7 @@ Results of hackathons conducted in masters programmes SCM and DBM.
 
 * [Summary blog post](/2018-07-20-DEE-IoTHackathon/) about the cross-educational hackathon on blockchain enabled energy microgrids together with the electrical engineering department (DEE & IoT, summer term 2018)
     * Blockchain enabled P2P transactions within an energy microgrid 
-    * Step to to establish a blockchain laboratory environment at the Reutlingen University to study and develop applications
+    * First step to establish a blockchain laboratory environment at the Reutlingen University to study and develop applications
 
 * [Summary blog post](/2018-07-05-SCM-IoTHackathon/) about the hackathon on IoT across various Digital Areas of Life (IoT, summer term 2018)
     * Five projects illustrate how IoT spans across Smart Home and Smart Shop 
