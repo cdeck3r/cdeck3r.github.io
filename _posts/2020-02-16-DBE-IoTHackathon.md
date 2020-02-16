@@ -60,7 +60,7 @@ In the final project documentation, the teams describe several important IoT con
 Check out the team presentations, videos and project reports available online
 
 * [Smart Classroom](https://github.com/giaru/IoT)
-* [Alexa Schreiberling)(https://github.com/NatalieSchwindt/Wahlfach_IoT_AlexaDoku/wiki)
+* [Alexa Schreiberling](https://github.com/NatalieSchwindt/Wahlfach_IoT_AlexaDoku/wiki)
 * [PlugInBeGreen: Power saving using smart power plugs](https://gitlab.com/jbuehler1337/pluginbegreen)
 * [FeedBecky: RFID-based feedback system for lectures](https://github.com/CrystalCake/FeedBecky)
 * [IoT-Social-Reporter](https://github.com/HHZ-IoT/Social-Reporter/wiki)
