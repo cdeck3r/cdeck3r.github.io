@@ -17,7 +17,7 @@ Some of them are held in our [Smart Environment](/research/se/) for data driven 
 ## Projects
 Term or two-term projects conducted by students.
 
-* [Electricity profiLe MOnitoring (ELMO) blog post](http://cdeck3r.com/2019-03-25-WIB-ELMO/)
+* [Electricity profiLe MOnitoring (ELMO) blog post](http://cdeck3r.com/2019-03-25-WIB-ELMO/) about a distributed energy monitoring system for machinery at the textile design department 
 * [Coding Challenge blog post](/2017-08-03-SCM-DataProduct_CodingChallenge/) about the SCM as a Data Product project
 * [Summary blog post](/2017-04-24-SCM-Projectday/) about the HHZ project day (winter term 2016/17)
     * [SCM as a Data Product](https://github.com/cdeck3r/SCM-DataProduct): Student research project presenting the masters programme Services Computing as data product.
@@ -30,6 +30,8 @@ Term or two-term projects conducted by students.
 Results of hackathons conducted in masters programmes SCM and DBM.
 
 ### Digital Business Engineering (DBE)
+
+The master program [Digital Business Engineering (DBE)](https://www.hhz.de/master/digital-business-engineering/) is the successor of the program Services Computing. 
 
 * [Summary blog post](http://cdeck3r.com/2020-02-16-DBE-IoTHackathon/) about the IoT hackathon projects on "Embedded Digital Services in Everyday Routines" (IoT, winter term 2018/19)
     * Five projects on a broad range of ideas 
