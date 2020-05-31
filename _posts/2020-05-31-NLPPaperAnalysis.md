@@ -46,11 +46,11 @@ We utilize qualitative and quantitative methods from NLP. A paper abstract or ti
 
 Let us start with some visualization. The following figure shows the word count network from stemmed abstracts. The stronger the line, the more often we find these (stemmed) words together.
 
-[word count network](/img/blog/NLPPaperAnalysis_wordcountnetwork.png)
+![word count network](/img/blog/NLPPaperAnalysis_wordcountnetwork.png)
 
 We can extend this approach and the plot the pairwise word correlation. This is basically the pearson correlation coefficient for words. When filterd for correlation coefficients above a threshold, the network reveals some interesting topic islands.
 
-[word correlation network](/img/blog/NLPPaperAnalysis_wordcorrelationnetwork.png)
+![word correlation network](/img/blog/NLPPaperAnalysis_wordcorrelationnetwork.png)
 
 In the fowllowing we utilize tf-idf statistics to compile a paper reading list. The table dsiplays the Top-3 papers from this list. 
 
