@@ -88,4 +88,6 @@ So, always take an automatic analysis with a grain of salt.
 
 ## Ressource
 
-R notebook with the full analysis:  [IWSSSAnalysis.ipynb](https://github.com/cdeck3r/NLPPaperAnalysis/blob/master/notebooks/IWSSSAnalysis.ipynb)
+* [Repository](https://github.com/cdeck3r/NLPPaperAnalysis) on NLP Paper Analysis for reproducing this analysis 
+* R notebook with the full analysis:  [IWSSSAnalysis.ipynb](https://github.com/cdeck3r/NLPPaperAnalysis/blob/master/notebooks/IWSSSAnalysis.ipynb)
+
