@@ -42,9 +42,22 @@ Using papers' titles and abstracts only, we are able to create a complete as pos
 
 We utilize qualitative and quantitative methods from NLP. A paper abstract or title refers to a document in NLP. The pile of papers form a document corpus, or simply corpus. The analysis uses the R language.
 
+## NLP Methods
+
+The analysis utilizes the following NLP methods which provide several quantitative measures for explorative analysis and modeling of the document corpus. 
+
+| analysis class | methods |
+|-------|--------|
+| descriptive statistics | papers per year, avg. title length per year, avg. abstract length per year | 
+| explorative analysis | wordclouds, top-N words, bigrams and trigrams |
+| networks analysis | pairwise word count network, pairwise correlation of selected frequent words, pairwise word correlation network |
+| modeling | tf-idf statistic, LDA topic modeling, per-topic-per-word probabilities, per-document-per-topic probabilities | 
+
+If you like to reproduce these methods using an other corpus, we provide a [NLP Paper Analysis repository](https://github.com/cdeck3r/NLPPaperAnalysis) containing the R notebook, the data file and a docker compose file. It enables you to quickstart into the area.      
+
 ## Selected Results
 
-Let us start with some visualization. The following figure shows the word count network from stemmed abstracts. The stronger the line, the more often we find these (stemmed) words together.
+We present some selected results from the NLP methods. For the full analysis please look in the [R notebook](https://github.com/cdeck3r/NLPPaperAnalysis/blob/master/notebooks/IWSSSAnalysis.ipynb). Let us start with some visualization. The following figure shows the word count network from stemmed abstracts. The stronger the line, the more often we find these (stemmed) words together.
 
 ![word count network](/img/blog/NLPPaperAnalysis_wordcountnetwork.png)
 
