@@ -48,7 +48,7 @@ Let us start with some visualization. The following figure shows the word count 
 
 ![word count network](/img/blog/NLPPaperAnalysis_wordcountnetwork.png)
 
-We can extend this approach and the plot the pairwise word correlation. This is basically the pearson correlation coefficient for words. When filterd for correlation coefficients above a threshold, the network reveals some interesting topic islands.
+We can extend this approach and the plot the pairwise word correlation. This is basically the pearson correlation coefficient for words. When filtered for correlation coefficients above a threshold, the network reveals some interesting topic islands.
 
 ![word correlation network](/img/blog/NLPPaperAnalysis_wordcorrelationnetwork.png)
 
