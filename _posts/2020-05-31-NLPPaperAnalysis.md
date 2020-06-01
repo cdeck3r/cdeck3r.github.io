@@ -38,7 +38,7 @@ This analysis only utilizes titles and abstracts of paper publications. There ar
 
 Using papers' titles and abstracts only, we are able to create a complete as possible data base for our analysis. We store the data in the MS Excel format to enable an easy way to manually edit this data base.
 
-![analysis approach](https://github.com/cdeck3r/NLPPaperAnalysis/blob/master/approach.png)
+![analysis approach](https://raw.githubusercontent.com/cdeck3r/NLPPaperAnalysis/master/approach.png)
 
 We utilize qualitative and quantitative methods from NLP. A paper abstract or title refers to a document in NLP. The pile of papers form a document corpus, or simply corpus. The analysis uses the R language.
 
