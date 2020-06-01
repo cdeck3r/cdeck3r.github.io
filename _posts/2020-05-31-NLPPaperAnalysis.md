@@ -42,7 +42,7 @@ Using papers' titles and abstracts only, we are able to create a complete as pos
 
 We utilize qualitative and quantitative methods from NLP. A paper abstract or title refers to a document in NLP. The pile of papers form a document corpus, or simply corpus. The analysis uses the R language.
 
-## Results
+## Selected Results
 
 Let us start with some visualization. The following figure shows the word count network from stemmed abstracts. The stronger the line, the more often we find these (stemmed) words together.
 
@@ -75,7 +75,7 @@ It is imaginable from the titles that this classification is reasonable. However
 
 ## Take it with a Grain of Salt
 
-Not all of them are correct. A user is still required to justify the recommendations. The table shows the papers from the topic "Recreation".
+Not all classifications are correct. A user is still required to justify the recommendations. The table shows the papers from the topic "Recreation".
 
 | year | topic name | title |
 |-------|--------|---------|
