@@ -44,7 +44,7 @@ We utilize qualitative and quantitative methods from NLP. A paper abstract or ti
 
 ## NLP Methods
 
-The analysis utilizes the following NLP methods which provide several quantitative measures for explorative analysis and modeling of the document corpus. 
+The analysis utilizes the following NLP methods which provide several quantitative measures for the explorative analysis and the modeling of the document corpus. 
 
 | analysis class | methods |
 |-------|--------|
