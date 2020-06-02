@@ -65,7 +65,7 @@ We can extend this approach and the plot the pairwise word correlation. This is 
 
 ![word correlation network](/img/blog/NLPPaperAnalysis_wordcorrelationnetwork.png)
 
-In the fowllowing we utilize tf-idf statistics to compile a paper reading list. The table dsiplays the Top-3 papers from this list. 
+In the fowllowing we utilize tf-idf statistics to compile a paper reading list. The table displays the top-3 papers from this list. 
 
 | title | important_words | median_tfidf |
 |-------|--------|---------|
