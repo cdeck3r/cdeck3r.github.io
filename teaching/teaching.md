@@ -33,7 +33,11 @@ Results of hackathons conducted in masters programmes SCM and DBM.
 
 The master program [Digital Business Engineering (DBE)](https://www.hhz.de/master/digital-business-engineering/) is the successor of the program Services Computing. 
 
-* [Summary blog post](http://cdeck3r.com/2020-02-16-DBE-IoTHackathon/) about the IoT hackathon projects on "Embedded Digital Services in Everyday Routines" (IoT, winter term 2018/19)
+* [Summary blog post](/2021-04-17-DBE-IoTHackathon/) IoT supports Hybrid Lectures (IoT, winter term 2020/21)
+    * Three projects demonstrate how IoT technologies improve hybrid lectures 
+    * Project reports and explainer videos available  
+
+* [Summary blog post](/2020-02-16-DBE-IoTHackathon/) about the IoT hackathon projects on "Embedded Digital Services in Everyday Routines" (IoT, winter term 2019/20)
     * Five projects on a broad range of ideas 
     * Project reports and Minimum Viable Products (MVP) implementations available  
 
