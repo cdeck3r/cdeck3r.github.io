@@ -22,7 +22,7 @@ Because of the Corona situation, the IoT lecture was held in different modes
 1. Hybrid class for Web of Things (WoT) lab exercise with students present at the HHZ together with online participants,
 1. Presence / online hackathon, where teams of students are present at the HHZ, other teams work purely online, and others again work as hybrid teams where part of the team is present and the other part collaborates online.
 
-This term's IoT hackathons took place by end of January 2020. The following image shows students working during the hackathon. They wear masks and keep sufficient distance under Corona conditions.
+This term's IoT hackathon took place by end of January 2020. The following image shows students working during the hackathon. They wear masks and keep sufficient distance under Corona conditions.
 
 ![DBE Hackathon in WS20](/img/blog/DBE_IoT_WS20_Hackathon.jpg)
 
