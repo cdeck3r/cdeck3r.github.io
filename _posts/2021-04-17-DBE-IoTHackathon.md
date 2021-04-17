@@ -11,7 +11,7 @@ bigimg:
   - "/img/blog/DBE_IoT_WS20_Hackathon_bigimg_5.jpg" : "DBE Hackathon (2020)"
 ---
 
-In the Internet of Things (IoT), we discuss a world where digital services are ubiquitously present and companion us during our activities and daily routines. In particular, IoT may support typical and repetitive home office activities or bridge remote groups doing collaborative work. The fundamental principles of functional IoT and its enabling technology are at the center of my IoT lecture in the master’s programs [Digital Business Engineering](https://www.hhz.de/master/digital-business-engineering/) at the (Herman Hollerith Zentrum (HHZ))[https://hhz.de]. 
+In the Internet of Things (IoT), we discuss a world where digital services are ubiquitously present and companion us during our activities and daily routines. In particular, IoT may support typical and repetitive home office activities or bridge remote groups doing collaborative work. The fundamental principles of functional IoT and its enabling technology are at the center of my IoT lecture in the master’s programs [Digital Business Engineering](https://www.hhz.de/master/digital-business-engineering/) at the [Herman Hollerith Zentrum (HHZ)](https://hhz.de). 
 
 
 ## Lecturing during the Corona Pandemic
