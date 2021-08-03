@@ -9,7 +9,7 @@ share-img: "https://pixabay.com/get/g06c83df6b3846e31bebad5888a454402ce7e5e2141f
 **Synopsis**
 A method is presented, where students independently create new and quality-assured learning materials to accompany online lectures.
 
-[Download full report]().
+[Download full report](/teaching/RapidDevelopmentofEduGamesbyStudents.pdf).
 
 ## Intro
 
