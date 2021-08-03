@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rapid Development of Online Educational Games by Students
+title: Rapid Development of Educational Games
 subtitle: Intro / Method / Tools / Results
 share-img: "http://cdeck3r.github.io/img/rapidlearn_shareimg.png"
 ---
