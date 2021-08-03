@@ -48,7 +48,7 @@ The creators are embedded in a control loop for quality improvement.
 In addition, regular standardized surveys determine the scope and completeness of the content. 
 The following figure illustrates the process.
 
-`<figure tbd>`
+![innovation](/img/edugames_innovation.png)
   
 The activities, especially those of the creators, must be carried out regularly at short intervals in order to make small-scale improvements. 
 The lecturer works in an advisory and supervisory role with the creators. 
@@ -90,7 +90,9 @@ The student teams are continuously adding to a results document with the followi
 * the values of the key figures on participants, aspiration and player strength
 * the adjustments described as a result of the key figures
 
-The following figure shows typical performance statistics as they are documented at the end of a sprint.
+The following figures show typical performance statistics as they are documented at the end of a sprint.
 
-`tbd figure`
+![question difficulty stats](/img/edugames_results1.png)
+
+![player strength stats](/img/edugames_results2.png)
 
