@@ -2,7 +2,7 @@
 layout: page
 title: Development of Educational Games
 subtitle: Intro / Method / Tools / Results
-share-img: "http://cdeck3r.github.io/img/rapidlearn_shareimg.png"
+share-img: "https://pixabay.com/get/g06c83df6b3846e31bebad5888a454402ce7e5e2141f9734d93567f3ae563bd20a526e5724e4b387c8c3f6154f2fec818_640.jpg"
 ---
 
 
