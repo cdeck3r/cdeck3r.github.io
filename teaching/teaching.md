@@ -9,6 +9,14 @@ title: Teaching
   <a href="#lectures" class="list-filter">Lectures</a>
 </div>
 
+## Novel Teaching Methods
+
+I am experimenting with various instruments to improve my lectures and learning experience. 
+
+* 2020 - [Method for Rapid Development of online Educational Games by Students](/teaching/edugames/)
+* 2020 - [IoT support for hybrid lectures](/2021-04-17-DBE-IoTHackathon/)
+* 2017 - [Data Driven Lectures (DDL)](/teaching/ddl/)
+
 ## Masters Programmes @HHZ
 
 Lectures on [Digital Business Engineering (DBE)](https://www.hhz.de/master/digital-business-engineering/) and [Digital Business Management (DBM)](http://www.digitalbusinessmaster.de/) take place every term at the HHZ. 
@@ -96,7 +104,8 @@ Starting from the winter term 2019 the masters program on Services Computing sto
 ## Lectures
 
 Lectures take place every term at the HHZ and the Reutlingen University. 
-Some of them are organized as [Data Driven Lectures (DDL)](/teaching/ddl/).
+Some of them are organized as [Data Driven Lectures (DDL)](/teaching/ddl/). DDL was awared by the [Hochschullehrpreis](/aboutme/) of the Reutlingen University.
+I also utilize educational quiz games. These were developed by students for students. Have a look on my awared [Method for Rapid Development of online Educational Games by Students](/teaching/edugames/).
 
 #### Masters programme SCM "Services Computing" (HHZ)
 *DDL Type: [Smart Environment](/research/se/)*
