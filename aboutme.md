@@ -23,3 +23,13 @@ After his PhD he started a professional career as a team manager for statistical
 * [Projects](http://www.teco.edu/~cdecker/projects/)
 * [Publications](http://www.teco.edu/~cdecker/pub/)
 
+### Awards
+
+Christian has received awards for his research work and his teaching activities.
+
+* 2005 Best external contribution, SAP Corporate Research 
+* 2010 Dissertation Award by the Förrderverein des Forschungszentrums Informatik, Karlsruhe
+* 2017 [Hochschullehrpreis](https://www.inf.reutlingen-university.de/fakultaet/aktuelles/news/meldungen/prof-dr-christian-decker-erhaelt-lehrpreis-der-hochschule/) of Reutlingen University for [Data Driven Lectures](/teaching/ddl/) 
+* 2020 [Fakultätslehrpreis der Fakultät Informatik](https://www.reutlingen-university.de/fileadmin/_aktuelles/GEA-Campus-Seite-Oktober_27-10-20.pdf) at Reutlingen University for a Method for Rapid Development of online Educational Games by Students
+
+
