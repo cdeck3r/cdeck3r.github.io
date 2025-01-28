@@ -46,8 +46,6 @@ through the use internet technology. A classroom embedding various Internet-of-T
     * Temperature/Humidity sensor: DHT11
     * CO2 sensor: MQ135
 
-The website [digital.hhz.de](http://digital.hhz.de) displays some selected sensor data from the Smart Environment.
-
 ## Research and Recent Activities
 
 The research on smart environments is ongoing. We will continue to develop our smart environment for DDL further.
