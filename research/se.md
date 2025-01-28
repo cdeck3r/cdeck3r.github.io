@@ -18,8 +18,6 @@ A smart environment is a sensor and actuator instrumented room or space. Embedde
 At the HHZ, we have implemented a smart environment to support [Data Driven Lectures (DDL)](/teaching/ddl). 
 The installation runs 24/7 and supports students as well as lectures in learning and teaching activities. 
 
-You may want to view some selected data from the Smart Environment on [digital.hhz.de](http://digital.hhz.de).
-
 ## Types of Smart Environments
 
 Bascially, we distinguish between three stages of extension for smart environments.
