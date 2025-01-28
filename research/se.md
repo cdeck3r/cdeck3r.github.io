@@ -53,7 +53,7 @@ The website [digital.hhz.de](http://digital.hhz.de) displays some selected senso
 ## Research and Recent Activities
 
 The research on smart environments is ongoing. We will continue to develop our smart environment for DDL further.
-Through various hackathons we try to identify common steps to build smart environments. The objective is to achieve a process-based understanding Students in the Masters program [Services Computing](http://www.hhz.de/master/services-computing/) attending my elective course Internet of Things (IoT) will actively participate in this endeavor. 
+Through various hackathons we try to identify common steps to build smart environments. The objective is to achieve a process-based understanding Students in the Masters program [Digital Business Engineering](https://www.hhz.de/studium/master/digital-business-engineering) attending my elective course Internet of Things (IoT) will actively participate in this endeavor. 
 
 Another branch of research is the investigation of big data and machine learning approach to efficiently process and reason on the data acquired by the embedded sensor systems. 
 
